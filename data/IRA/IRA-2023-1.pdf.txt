@@ -1,0 +1,729 @@
+1.  Vous êtes attaché(e) d'administration au sein d'un bureau en charge du contentieux administratif.
+    Dans le cadre de la rédaction de vos mémoires en défense, vous êtes contraint de transmettre
+    l'ensemble des pièces de la procédure à la partie adverse au motif que la procédure est :
+    A. inquisitoire
+    <correct_answer>B. contradictoire</correct_answer>
+    C. écrite
+
+2.  Vous participez à la rédaction d'un projet d'ordonnance, votre supérieur hiérarchique vous
+    demande si le texte est soumis à consultation obligatoire. Vous répondez qu'il faut saisir :
+    <correct_answer>A. e Conseil d'Etat</correct_answer>
+    B. le Conseil constitutionnel
+    C. le Conseil économique social et environnemental
+
+3.  Vous êtes saisi en urgence pour rédiger un diaporama pour votre directeur qui doit intervenir
+    devant un auditoire sur "Action Publique 2022". Vous développez les points suivants :
+    <correct_answer>A. amélioration de la qualité des services publics, l'offre d'un environnement de travail
+    modernisé aux fonctionnaires et la maîtrise des dépenses publiques</correct_answer>
+    B. la nécessité pour les organisations publiques de respecter quatre principes de fonctionnement :
+    égalité, équité, adaptabilité et continuité pour accomplir leur mission de service public et satisfaire
+    les intérêts collectifs
+    C. les dispositions d'une nouvelle réforme fiscale dont l'objet est de réviser l'organisation de
+    l'imposition pour une plus grande égalité
+
+4.  La consultation à titre personnel d'un fichier professionnel et la communication à des tiers non
+    habilités des informations confidentielles qu'il contient constituent :
+    A. un devoir d'alerte
+    B. une violation de la loi n° 78-753 du 17 juillet 1978 instaurant un droit d'accès des citoyens aux
+    documents administratifs
+    <correct_answer>C. un manquement au devoir de discrétion professionnelle</correct_answer>
+
+5.  Vous êtes chef(fe) de bureau dans une préfecture, vous venez de signer une obligation de quitter
+    le territoire français à l'encontre d'un étranger en situation irrégulière. Les délais pour contester
+    cette décision courent à compter de la date de :
+    A sa publication au recueil des actes administratifs de la préfecture
+    <correct_answer>B. sa notification à l'intéressé</correct_answer>
+    C. sa signature
+
+6. La police administrative a pour objet :
+A. de rechercher les auteurs des infractions commises afin de les traduire devant la justice
+pénale
+B de lutter contre le terrorisme
+<correct_answer>C. de maintenir l'ordre public en assurant la tranquillité, la sécurité et la salubrité publiques</correct_answer>
+
+7. Quel impact la loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique a-t-elle
+eu sur les commissions administratives paritaires (CAP)?
+A. Les CAP ne sont consultées que pour les questions relatives aux mutations, détachements
+ou avancements des agents
+B. La loi a supprimé les CAP
+<correct_answer>C. La loi recentre la compétence des CAP sur le champ disciplinaire et les décisions individuelles
+défavorables</correct_answer>
+
+8. Dans l'arrêt Blanco en date du 8 février 1873, le Tribunal des conflits consacre :
+A. le principe selon lequel l'administration ne peut retirer un acte individuel créateur de droits que
+s'il est illégal et avant qu'il ne soit devenu définitif
+<correct_answer>B. a responsabilité de l'État à raison des dommages causés par des services publics et reconnaît
+le service public comme le critère de la compétence de la juridiction administrative</correct_answer>
+C. la primauté du droit national sur les traités internationaux
+
+9. Quel principe est rappelé par l'article 40 du code de procédure pénale ?
+<correct_answer>A. L'obligation pour tout officier public ou fonctionnaire qui, dans l'exercice de ses fonctions,
+acquiert la connaissance d'un crime ou d'un délit, d'en informer sans délai le procureur de la
+République</correct_answer>
+B. L'agent public bénéficie de la protection fonctionnelle s'il est poursuivi en justice par un tiers
+pour une faute commise dans l'exercice de ses fonctions
+C. L'obligation faite à tout agent public de ne pas divulguer les informations concernant l'activité,
+les missions et le fonctionnement de son administration
+
+10. Quelle proposition est vraie concernant la répartition des compétences entre l'Etat et les
+collectivités territoriales s'agissant du service public de l'éducation ?
+A. L'Etat a la charge de tous les personnels du système éducatif et les collectivités territoriales
+ont la charge des bâtiments scolaires
+<correct_answer>B. Les collectivités territoriales et l'Etat ont des compétences partagées dont la répartition
+diffère selon qu'il s'agit d'une école, d'un collège ou d'un lycée</correct_answer>
+C. Les bâtiments scolaires sont la propriété de la commune sur laquelle ils sont implantés
+
+11. La loi portant nouvelle organisation territoriale de la République confie de nouvelles
+compétences aux régions et supprime la clause générale de compétence pour les
+départements et les régions. Cette même loi :
+<correct_answer>A. Jenforce le rôle de la région en matière de développement économique</correct_answer>
+B. attribue au département la charge de l'aménagement durable du territoire
+C. attribue à la région les compétences de solidarité
+
+12. Les actes des collectivités territoriales font l'objet :
+<correct_answer>A. d'un contrôle a posteriori</correct_answer>
+B. d'un contrôle a priori
+C. l'un ou l'autre au choix du préfet
+
+13. M. X s'est vu notifier une décision explicite de refus de sa demande de permis de construire le
+15 janvier 2022. Face à ce refus, il a formé un recours gracieux auprès du maire de sa commune
+pour lui demander de revoir sa décision. En date du 5 mai 2022, M. X n'a pas obtenu de réponse
+de la part du maire. Que doit-il faire ?
+<correct_answer>A. Il doit se pourvoir devant le juge administratif</correct_answer>
+B. Rien, il bénéficie d'une autorisation tacite de construire
+C. Il doit réitérer sa demande auprès du maire
+
+14. Pour des raisons d'hygiène, le restaurant TOUTESTBON s'est vu notifier une décision de
+fermeture administrative qui ne peut pas émaner :
+A. du maire sur délégation du préfet
+B. du ministre de l'intérieur
+<correct_answer>C. de la direction départementale de la protection des populations</correct_answer>
+
+15. En tant qu'agent public affecté au service municipal chargé de délivrer les permis de construire,
+vous envoyez une décision administrative individuelle en oubliant de mentionner les voies et
+délais de recours. Quelle est la conséquence juridique ?
+A. Le recours reste possible à tout moment
+B Le délai de recours est de deux mois
+<correct_answer>C. Un << délai de recours raisonnable >> d'un an est opposable au destinataire de la décision</correct_answer>
+
+16. Quelle(s) autorité(s) dispose(nt) du pouvoir réglementaire de droit commun en vertu de la
+Constitution ?
+<correct_answer>A. Le Président de la République et le Premier ministre</correct_answer>
+B. Le Premier ministre et l'ensemble du Gouvernement
+C. Le Parlement
+
+17. Les sénateurs sont élus pour un mandat de :
+A. 5 ans, le Sénat étant renouvelé à l'issue du renouvellement de l'Assemblée nationale
+<correct_answer>B. 6 ans, le Sénat étant renouvelé par moitié tous les 3 ans</correct_answer>
+C. 6 ans, le Sénat étant renouvelé intégralement à l'issue des élections municipales et
+Communautaires.
+
+18. Les articles 76 et 77 de la Constitution régissent le statut particulier de :
+A. la Corse
+B. la Ville de Paris
+<correct_answer>C. la Nouvelle-Calédonie</correct_answer>
+
+19. L'article 89 de la Constitution de la Ve République impose le recours :
+A. systématique au référendum
+<correct_answer>B. au référendum, uniquement si l'initiative de la révision est d'origine parlementaire</correct_answer>
+C. au référendum, uniquement si l'initiative de la révision émane de l'exécutif
+
+20. Quel principe a obtenu valeur constitutionnelle par une décision du Conseil constitutionnel du
+25 juillet 1979:
+<correct_answer>A. la continuité du service public</correct_answer>
+B. le droit au respect de la vie privée
+C. la liberté d'entreprendre
+
+21. Les lois référendaires ont-elles une autorité supérieure à celle des lois ordinaires ?
+<correct_answer>A. Non</correct_answer>
+B. Oui, car elles ne peuvent pas être modifiées par des lois ordinaires
+C. Oui, car elles ne peuvent être modifiées que par des lois constitutionnelles
+
+22. En matière législative, le Président de la République dispose :
+A. du pouvoir d'initiative
+<correct_answer>B. de la faculté de déférer la loi devant le Conseil constitutionnel avant de la promulguer</correct_answer>
+C. des pleins pouvoirs
+
+23. Une loi référendaire est une loi adoptée :
+<correct_answer>A. après l'approbation d'un projet de loi soumis à l'ensemble des citoyens par voie de référendum</correct_answer>
+B. à la suite d'un référendum sur la base d'un texte émanant d'une proportion suffisante de
+citoyens disposant de leurs droits civiques
+C. après l'approbation d'un projet de loi soumis à l'ensemble des citoyens par voie de
+référendum, après décision du Gouvernement
+
+24. Le rôle du Conseil Constitutionnel est d'exercer un contrôle de constitutionnalité obligatoire portant:
+A. exclusivement sur les règlements des assemblées et les lois organiques
+<correct_answer>B. sur les règlements des assemblées, les lois organiques et les propositions de loi issues du
+référendum d'initiative partagée avant qu'elles ne soient soumises à référendum</correct_answer>
+C. sur les règlements des assemblées, les lois organiques, les lois ordinaires et les engagements internationaux
+
+25. En France, la Cour de Justice de la République juge :
+A. le Président de la République lorsqu'il quitte ses fonctions
+Bles élus lorsqu'ils sont en fonction
+<correct_answer>C. les membres du Gouvernement pour les actes délictueux ou criminels commis dans l'exercice de leurs fonctions</correct_answer>
+
+26. Une modification de la Constitution est ratifiée :
+<correct_answer>A. soit par référendum, soit par les 3/5 des parlementaires réunis en Congrès</correct_answer>
+B. soit par la majorité des sénateurs, soit par la majorité des députés
+C. soit par référendum, soit par un vote des grands électeurs
+
+27. Le préambule de la Constitution de 1958 fait référence à trois sources:
+<correct_answer>A. la Déclaration des droits de l'homme et du citoyen de 1789, le préambule de la Constitution de 1946 et la Charte de l'environnement de 2004</correct_answer>
+B. la Déclaration des droits de l'homme et du citoyen de 1789, le préambule de la Constitution européenne de 1946, et la Charte de l'environnement de 2004
+C. la Déclaration des droits de l'homme et du citoyen de 1789, la Charte des Nations-Unies de 1945 et la Charte de l'environnement de 2004
+
+28. Le droit de grâce relève d'une compétence :
+A. partagée entre le Président de la République et le ministre de la justice
+B partagée entre le Président de la République et le Parlement
+<correct_answer>C. exclusive du Président de la République</correct_answer>
+
+29. Vous êtes attaché(e) d'administration. En poste au sein d'une direction d'administration centrale, vous êtes sanctionné(e) en raison d'un comportement répréhensible dans l'exercice de vos fonctions. Vous décidez de faire un recours gracieux. Vous l'adressez :
+A. au supérieur hiérarchique direct de l'auteur de la décision contestée
+<correct_answer>B. a l'auteur de la décision contestée</correct_answer>
+C. à la commission de discipline
+
+30. Vous êtes attaché(e) d'administration. Votre supérieur hiérarchique souhaite engager une
+procédure disciplinaire à l'encontre d'un agent titulaire et appliquer une sanction du premier
+groupe ne nécessitant pas de ce fait la consultation préalable du conseil de discipline. Vous lui
+proposez l'exclusion temporaire de fonctions de :
+A. 6 mois
+B. 1 semaine
+C. <correct_answer>2 jours</correct_answer>
+
+31. Le décret n° 2014-513 du 20 mai 2014 portant création d'un régime indemnitaire tenant compte
+des fonctions, des sujétions, de l'expertise et de l'engagement professionnel (RIFSEEP) dans
+la fonction publique de l'Etat a pour objet de rationaliser et de simplifier le paysage indemnitaire.
+Quels sont les principes de mise en œuvre de ce nouveau régime indemnitaire ?
+A. Valoriser uniquement l'exercice de fonctions, le niveau de responsabilité et d'expertise
+B. Reconnaître uniquement l'engagement professionnel et la manière de servir de l'agent
+C. <correct_answer>Valoriser l'exercice de fonctions, le niveau de responsabilité et d'expertise, reconnaître
+T'engagement professionnel et la manière de servir de l'agent</correct_answer>
+
+32. Quels sont les employeurs publics soumis à l'obligation d'emploi des travailleurs handicapés ?
+A. <correct_answer>L'ensemble des employeurs publics qui rémunère au moins 20 agents à temps plein</correct_answer>
+B. L'ensemble des employeurs publics qui rémunère au moins 50 agents à temps plein
+C. Uniquement les employeurs publics de la fonction publique de l'État qui rémunèrent au moins
+20 agents à temps plein
+
+33. Vous êtes affecté (e) en tant qu'attaché (e) au sein d'un service déconcentré. À ce titre, vous
+allez percevoir en contrepartie du service fait un traitement indiciaire qui correspond à :
+A. <correct_answer>la multiplication de l'indice majoré que vous détenez par la valeur du point d'indice</correct_answer>
+B. la multiplication de l'indice majoré que vous détenez par l'indice INSEE des prix à la
+consommation
+C. un traitement fixe auquel s'ajoute obligatoirement la garantie individuelle du pouvoir d'achat
+
+34. L'agent à l'encontre duquel une procédure disciplinaire est engagée a le droit de :
+A. consulter son dossier s'il est accompagné d'un avocat
+<correct_answer>B. consulter l'intégralité de son dossier individuel</correct_answer>
+C. consulter uniquement le rapport de son supérieur hiérarchique
+
+35. Le droit de grève est reconnu aux agents publics. Toutefois, certains agents ne disposent pas
+de ce droit. Il s'agit notamment :
+A. des magistrats administratifs
+B des magistrats financiers
+<correct_answer>C. des magistrats judiciaires</correct_answer>
+
+36. Vous êtes chef de service au sein d'une direction départementale des services de l'éducation
+nationale. Un fonctionnaire travaillant dans votre bureau vous demande s'il peut exercer une
+activité accessoire de formateur. Vous lui répondez qu'un agent public:
+A exerçant une activité principale ne peut obtenir une telle autorisation
+<correct_answer>B. exerçant une activité principale peut bénéficier d'une autorisation pour exercer une activité
+de formateur</correct_answer>
+C. n'a pas besoin de solliciter l'autorisation de sa hiérarchie pour exercer une activité de
+formateur
+
+37. Un agent chute dans le hall de son immeuble en partant travailler. Cet accident est qualifié :
+<correct_answer>A. d'accident de trajet</correct_answer>
+B. d'accident de service
+C. d'accident privé
+
+38. La réforme de 2021 de l'encadrement supérieur de l'Etat vise notamment à :
+A. accroître le nombre de corps par filière métiers afin de spécialiser et professionnaliser
+davantage la haute fonction publique
+<correct_answer>B. diminuer le nombre de corps en faisant des administrateurs de l'Etat le corps socle de
+l'encadrement supérieur</correct_answer>
+C. fusionner les corps d'encadrement supérieur des trois fonctions publiques
+
+39. Vous êtes chef d'un bureau du personnel dans la fonction publique de l'Etat et votre supérieur
+vous demande de suspendre un agent. Que faites-vous ?
+A. Vous lui déconseillez de prendre une telle mesure, au motif qu'elle doit être précédée de la
+réunion d'un conseil de discipline
+<correct_answer>B. Vous mettez en œuvre cette mesure conservatoire pour une période initiale et maximale de
+4 mois</correct_answer>
+C. Vous lui suggérez de privilégier l'exclusion temporaire de fonctions, d'une durée de 15 jours
+minimum
+
+40. La garantie individuelle du pouvoir d'achat est un dispositif visant au maintien du pouvoir d'achat
+des agents publics, lorsqu'il apparaît que celui-ci a baissé par comparaison entre l'évolution du
+traitement indiciaire brut détenu par l'agent et celle de l'indice des prix à la consommation :
+A. sur une période de référence de dix ans
+B depuis son entrée dans la fonction publique
+<correct_answer>C.</correct_answer> sur une période de référence de quatre ans
+
+41. Une sanction disciplinaire peut-elle s'accompagner d'une sanction pénale ?
+A. Non, selon le principe dit du non bis in idem qui stipule qu'on ne peut pas être sanctionné
+deux fois pour un même fait
+<correct_answer>B.</correct_answer> Oui, car il y a indépendance des procédures disciplinaire et pénale
+C. Oui, car il y a systématiquement une sanction pénale qui se rapporte à chaque sanction
+disciplinaire prononcée
+
+42. La loi n° 2019-828 du 6 août 2019 de transformation de la fonction publique a offert aux
+fonctionnaires la possibilité de demander une rupture conventionnelle qui aboutit à une :
+<correct_answer>A.</correct_answer> radiation des cadres et à la perte de la qualité de fonctionnaire, ouvrant droit à une
+indemnisation
+B. cessation progressive des activités de l'agent, ouvrant droit à une indemnisation également
+progressive
+C. situation au cours de laquelle l'agent se trouve placé temporairement hors de son
+administration ou service d'origine et cesse de bénéficier, durant cette période, de sa
+rémunération et de ses droits à la retraite
+
+43. Le compte personnel de formation (CPF) permet de suivre une formation :
+A. d'adaptation à l'emploi
+B. prescrite par l'employeur
+<correct_answer>C.</correct_answer> Jelevant d'une initiative de l'agent
+
+44. La place de l'emploi public (PEP) est :
+A. un système d'information permettant de gérer les opérations de mobilité des employeurs
+publics
+<correct_answer>B.</correct_answer> un portail recensant l'ensemble des offres d'emploi des trois versants de la fonction publique
+C. un portail à partir duquel les agents peuvent former un recours permettant d'obtenir une
+révision d'affectation
+
+45. Que désigne l'effet de noria ?
+A. L'effet d'entrainement sur les coûts salariaux de l'évolution de l'indice des prix à la
+consommation
+B. L'évolution des coûts salariaux en raison des avancements d'échelon, de grade et de corps
+<correct_answer>C. L'économie sur la masse salariale correspondant à la différence entre les coûts des salaires
+des agents entrants (moins payés) et des agents sortants (mieux payés grâce à leur
+ancienneté)</correct_answer>
+
+46. Quelle a été la première métropole créée à la suite de la loi n° 2010-1563 du 16 décembre 2010
+instituant un nouveau modèle d'établissement public de coopération intercommunal (EPCI)?
+A. La métropole du Grand Paris
+BLa métropole de Lyon
+<correct_answer>C. La métropole Nice-Côte d'Azur</correct_answer>
+
+47. Par la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la
+République, plusieurs compétences des collectivités territoriales ont été transférées ou
+supprimées. Cette loi prévoit entre autre que :
+A le rôle du département en matière de développement économique est renforcé
+<correct_answer>B. a clause générale de compétence est supprimée pour les départements et les régions</correct_answer>
+C. la responsabilité des compétences de solidarité est transférée à la région
+
+48. La direction interministérielle de la transformation publique est placée sous l'autorité :
+A. de la directrice générale de l'administration et de la fonction publique
+<correct_answer>B. cu ministre de la transformation et de la fonction publiques</correct_answer>
+C. du Premier ministre
+
+49. Vous travaillez dans un service juridique. Dans le cadre du renouvellement du cabinet
+ministériel, on vous demande si un avis préalable de la Haute autorité pour la transparence de
+la vie publique est nécessaire. Vous indiquez que ce contrôle est nécessaire dès lors que les
+membres de cabinet ont exercé une fonction dans le secteur privé au cours des :
+<correct_answer>A. 3 années précédant la nomination</correct_answer>
+B. 6 années précédant la nomination
+C. 9 années précédant la nomination
+
+50. Quel impact la réforme territoriale créée par la loi n° 2015-29 du 16 janvier 2015 a-t-elle eu sur
+l'organisation territoriale du ministère en charge de l'éducation nationale ?
+A. La réforme territoriale n'a eu aucun impact sur l'organisation académique
+BLa disparition de 12 académies sur le territoire national
+<correct_answer>C. La création de 18 régions académiques</correct_answer>
+
+51. Qui veille à la régularité du déroulement des élections présidentielles ?
+A La Cour des Comptes
+<correct_answer>B. Le Conseil Constitutionnel</correct_answer>
+C. Le Conseil d'État
+
+52. Le président d'un établissement public à caractère scientifique, culturel et professionnel
+(EPSCP) est:
+<correct_answer>A. élu par le conseil d'administration (CA) de cet établissement</correct_answer>
+B. nommé par le ministre chargé de l'enseignement supérieur sur proposition du recteur de
+région académique - chancelier des universités
+C. élu par les enseignants chercheurs de l'établissement (professeurs et maître de conférences)
+
+53. Depuis le 1er janvier 2023, la Cour des comptes exerce un contrôle juridictionnel sur :
+A. les comptables publics
+Bles élus
+<correct_answer>C. les comptables publics et les ordonnateurs</correct_answer>
+
+54. La compétence de principe en matière d'urbanisme appartient :
+A. à la région
+<correct_answer>B. au département</correct_answer>
+C. aux communes et groupements
+
+55. Les secrétariats généraux pour les affaires régionales sont constitués autour de deux
+pôles composés :
+<correct_answer>A. d'un pôle des politiques publiques interministérielles et d'un pôle des moyens de la
+mutualisation et de la modernisation</correct_answer>
+B. d'un pôle des politiques publiques interministérielles et d'un pôle départemental
+C. d'un pôle des moyens de la mutualisation et de la modernisation et d'un pôle
+interdépartemental
+
+56. En France, qui est notamment en charge de la lutte contre les discriminations?
+A. Le médiateur de la République
+B. Le contrôleur général des lieux de privation de liberté
+<correct_answer>C. Le Défenseur des droits</correct_answer>
+
+57. Le Conseil supérieur de la fonction publique territoriale est consulté :
+<correct_answer>A. uniquement sur les questions de discipline concernant la fonction publique territoriale</correct_answer>
+B. sur tout projet de loi ou de décret concernant la fonction publique territoriale
+C. uniquement sur les questions de déontologie concernant la fonction publique territoriale
+
+58. Le président du conseil départemental est élu pour :
+A. 4 ans
+B. 5 ans
+<correct_answer>C. 6 ans</correct_answer>
+
+59. La Commission nationale du débat public est compétente sur :
+<correct_answer>A. les projets d'intérêt national qui ont un impact significatif sur l'environnement ou
+l'aménagement du territoire</correct_answer>
+B. le respect de la liberté d'accès aux documents administratifs et aux archives publiques ainsi
+qu'à la réutilisation des informations publiques
+C. les pétitions portant sur toute question à caractère économique, social et environnemental
+
+60. Vous êtes attaché(e), chef(fe) de bureau en préfecture. Il vous est proposé par une
+connaissance de vous porter candidat(e) aux élections municipales de votre commune. Avant
+de répondre, vous interrogez votre service des ressources humaines et vous apprenez que :
+<correct_answer>A. les chefs de bureau de préfecture ne peuvent pas être élus conseillers municipaux dans les
+communes situées dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins
+de six mois</correct_answer>
+B. aucune disposition n'interdit à un chef de bureau de préfecture d'être élu conseiller municipal
+C. les chefs de bureau de préfecture ne peuvent être élus conseillers municipaux que dans une
+commune de moins de 1000 habitants. Toutefois, le code électoral proscrit à un chef de
+bureau de préfecture de siéger au conseil communautaire
+Finances publiques
+
+61. Quel principe budgétaire interdit à l'agent comptable de n'enregistrer que la différence entre la
+dette et la créance en écriture comptable ?
+ A. L'annualité
+ <correct_answer>B. L'universalité</correct_answer>
+ C. L'unité
+
+62. La réforme de la responsabilité des gestionnaires publics vise à :
+ A. abroger le principe de séparation de l'ordonnateur et du comptable
+ <correct_answer>B. unifier l'engagement de la responsabilité de l'ordonnateur et du comptable</correct_answer>
+ C. accroître la sanction des fautes purement formelles ou procédurales
+
+63. Quelles sont les formes traditionnelles de contrôle des finances publiques ?
+ <correct_answer>A. Les contrôles politiques, administratifs et juridictionnels</correct_answer>
+ B. Les contrôles politiques, administratifs et financiers
+ C. Les contrôles politiques, administratifs et fiscaux
+
+64. Vous êtes contrôleur budgétaire. Parmi la liste de décisions suivantes, laquelle n'est pas
+soumise à votre visa préalable:
+ <correct_answer>A. es conventions d'utilisation du domaine public conclues entre l'État propriétaire et les
+utilisateurs (administrations et opérateurs)</correct_answer>
+ B. les notifications prévisionnelles de subvention
+ C. les engagements relatifs aux accords-cadres exécutés ou non par bons de commande
+
+65. De nombreux documents sont annexés avec le projet de loi de finances. Parmi ces propositions,
+quel est le dernier document à avoir été ajouté à la liste des documents annexés ?
+ A. Le rapport sur la situation des finances publiques locales
+ <correct_answer>B. Le rapport sur l'impact environnemental du budget de l'Etat</correct_answer>
+ C. Le rapport sur le recours aux conseils extérieurs
+
+66. Quel texte définit une trajectoire pluriannuelle des finances publiques?
+ A. La loi de finance rectificative
+ B La loi de règlement
+ <correct_answer>C. La loi de programmation des finances publiques</correct_answer>
+
+67. Le principe d'unité de caisse implique que :
+A. toutes les administrations de l'Etat disposent chacune d'un compte bancaire unique
+<correct_answer>B. tous les fonds de l'Etat sont gérés par le Trésor public</correct_answer>
+C. tous les fonds de l'Etat sont gérés par la Caisse des dépôts et consignations
+
+68. La Cour de discipline budgétaire et financière peut être saisie par :
+<correct_answer>A. un particulier pour l'inexécution d'une décision de justice administrative le concernant, le
+rendant créancier de l'Etat</correct_answer>
+B. un maire ayant assisté à des octrois de subventions sans vote préalable au conseil municipal
+C. un journaliste ayant des preuves de la gestion illégale des deniers publics par un préfet
+
+69. De quel délai dispose le Parlement pour se prononcer sur les projets de loi de finances initiale?
+A. 45 jours
+<correct_answer>B. 70 jours</correct_answer>
+C. 55 jours
+
+70. Conformément aux dispositions de la loi organique relative aux lois de finances (LOLF), la
+discussion des crédits du budget général donne lieu à un vote :
+<correct_answer>A. par mission</correct_answer>
+B. par programme
+C. par action
+
+71. Comment se définit la dette publique ?
+<correct_answer>A. Comme l'ensemble des emprunts contractés par les administrations publiques (Etat,
+organismes d'administration centrale, collectivités locales...) au sens du traité de Maastricht</correct_answer>
+B. Comme la dette de l'ensemble des administrations publiques, des collectivités territoriales et
+des organismes de sécurité sociale
+C. Comme l'ensemble des emprunts effectués par l'Etat
+
+72. Le Haut Conseil des finances publiques a été créé par :
+A. l'ordonnance du 2 janvier 1959 portant loi organique relative aux lois de finances
+B la loi organique du 1er août 2001 relative aux lois de finances publiques
+<correct_answer>C. la loi organique du 17 décembre 2012 relative à la programmation et à la gouvernance</correct_answer>
+
+73. La mise en place de la loi organique relative aux lois de finances (LOLF) a fait évoluer
+l'intervention des comptables vers le contrôle :
+<correct_answer>A. hiérarchisé de la dépense</correct_answer>
+B. fonctionnel de la dépense
+C. opérationnel de la dépense
+
+74. Le nouveau principe budgétaire créé par l'article 32 de la loi organique relative aux lois de
+finances (LOLF) est :
+A. le principe d'unité
+<correct_answer>B. le principe de sincérité</correct_answer>
+C. le principe de spécialité
+
+75. La nomenclature des dépenses de l'Etat par destination se décompose en :
+<correct_answer>A. missions</correct_answer>
+B. prévisions
+C. titres
+
+76. La taxe sur la valeur ajoutée (TVA) est, au sens de la loi organique relative aux lois de finances
+(LOLF):
+<correct_answer>A. une recette fiscale</correct_answer>
+B. un prélèvement obligatoire
+C. une recette non fiscale
+
+77. Dans la loi de finances initiale 2023, la « Participation de la France au désendettement de la
+Grèce » n'a pas été renouvelée. Il s'agissait :
+A. d'un budget annexe
+<correct_answer>B. d'un compte d'affectation spéciale</correct_answer>
+C. d'une mission
+
+78. Quelle loi emporte l'autorisation pour l'Etat d'emprunter pour se financer?
+A. La loi de finances rectificative (LFR)
+<correct_answer>B. La loi de finances initiale (LFI)</correct_answer>
+C. La loi relative aux résultats de la gestion et portant approbation des comptes de l'année
+
+79. Les dépenses de l'Etat sont présentées par mission afin de mieux appréhender à quelle
+politique publique les ressources sont affectées. Celle qui reçoit la part la plus importante du
+budget est :
+A. la mission "Défense"
+B. la mission "Recherche et enseignement supérieur"
+<correct_answer>C. la mission "Enseignement scolaire"</correct_answer>
+
+80. Parmi ces propositions, laquelle ne fait pas partie des revenus de l'Etat ?
+A. Les revenus de l'activité industrielle et commerciale
+B Les revenus de son patrimoine
+<correct_answer>C. Les taxes sur les surfaces commerciales</correct_answer>
+
+81. Quelle ville accueille le siège du Conseil de l'Europe ?
+A. <correct_answer>Strasbourg</correct_answer>
+B. Bruxelles
+C. Luxembourg
+
+83. Le règlement tel que défini à l'article 288 du traité sur le fonctionnement de l'Union européenne
+est:
+A. <correct_answer>un acte de portée générale, obligatoire dans tous ses éléments et directement applicable
+dans tout Etat membre</correct_answer>
+B. un acte qui lie tout Etat membre quant aux résultats à atteindre tout en lui laissant le choix
+des moyens et de la forme
+C. obligatoire dans tous ses éléments pour les destinataires qu'il désigne
+
+84. Quel portefeuille détient l'actuel commissaire européen français ?
+A. La santé
+B. <correct_answer>Le marché intérieur</correct_answer>
+C. L'énergie
+
+85. Aux termes de l'article 5 du Traité sur l'Union européenne (TUE), qui veille au respect du
+principe de subsidiarité ?
+A. La Commission européenne
+B. Le Parlement européen
+C. <correct_answer>Les parlements nationaux</correct_answer>
+
+86. En 2022, à combien s'est élevé le budget de l'Union européenne ?
+A. environ 1074 milliards d'euros
+B. environ 750 milliards d'euros
+C. <correct_answer>environ 170 milliards d'euros</correct_answer>
+
+87. L'éducation et la culture sont des compétences de l'Union européenne :
+A. <correct_answer>d'appui</correct_answer>
+B. partagées
+C. exclusives
+
+88. Quelle est la durée du mandat de commissaire européen ?
+A. 6 mois
+B. <correct_answer>5 ans</correct_answer>
+C. 4 ans
+
+89. Qui a été la première femme présidente du Parlement européen ?
+A. Roberta Metsola
+B. <correct_answer>Simone Veil</correct_answer>
+C. Nicole Fontaine
+
+90. Vous êtes employé au sein de la Banque européenne d'investissement. Laquelle de ces
+thématiques ne fera pas partie de votre champ de compétences ?
+A. L'appel aux marchés de capitaux pour financer les politiques économiques et sociales de
+l'Union européenne
+B. L'accord de prêts et garanties à des projets publics et privés
+C. <correct_answer>La surveillance des établissements de crédit des Etats membres</correct_answer>
+
+91. Quelle proportion de britanniques a voté OUI au référendum pour le Brexit ?
+Α. <correct_answer>51,9%</correct_answer>
+Β. 58,9%
+C. 65,9%
+
+92. En quelle année les droits de douane entre les Etats membres de l'Union européenne ont-ils
+été totalement supprimés ?
+Α. <correct_answer>1957</correct_answer>
+Β. 1968
+C. 1986
+
+93. Quel est l'enchaînement chronologique des grands traités constitutifs de l'Union européenne?
+A. <correct_answer>Traités de Maastricht, d'Amsterdam, de Nice, de Lisbonne</correct_answer>
+B. Traités de Maastricht, de Nice, d'Amsterdam, de Lisbonne
+C. Traités de Maastricht, d'Amsterdam, de Lisbonne, de Nice
+
+94. Depuis quelle année la Bulgarie fait-elle partie de l'Union européenne ?
+<correct_answer>A. 2007</correct_answer>
+B. 1995
+C. 2004
+
+95. Dans le domaine des politiques de l'Union européenne, qu'est-ce que le SEAE ?
+A. Le service européen pour l'action économique
+<correct_answer>B. Le service européen pour l'action extérieure</correct_answer>
+C. Le service économique et administratif européen
+
+96. Quel était la part de la politique agricole commune (PAC) dans le budget de l'Union européenne
+en 2021?
+A. 12%
+B. 25%
+<correct_answer>C. 33 %</correct_answer>
+
+97. Qu'est-ce que l'agence FRONTEX ?
+A. L'agence qui gère des programmes européens qui aident les petites et moyennes
+entreprises à rester compétitives
+B. L'agence qui veille à la protection des données et protège les informations à caractère
+personnel
+<correct_answer>C. L'agence européenne de garde-frontières et de garde-côtes</correct_answer>
+
+98. Depuis quelle date la Croatie fait-elle partie de l'espace Schengen?
+<correct_answer>A. Le 1er janvier 2023</correct_answer>
+B. Le 1er janvier 2018
+C. Le 1er janvier 2013
+
+99. Dans quelle ville siège la Cour européenne des droits de l'homme ?
+<correct_answer>A. Strasbourg</correct_answer>
+B. Luxembourg
+C. Bruxelles
+
+100. Combien d'États sont signataires de la Convention européenne des droits de l'homme ?
+A. 36
+<correct_answer>B. 46</correct_answer>
+C.27
+
+101. Qu'est-ce qu'une U.R.L ?
+A. Un serveur dédié
+<correct_answer>B. L'adresse d'une ressource</correct_answer>
+C. Un fichier
+
+102. Un espace numérique de travail est :
+A. soit un intranet, soit un extranet
+<correct_answer>B. toujours un intranet et parfois un extranet</correct_answer>
+C. toujours un extranet et parfois un intranet
+
+103. Un réseau privé virtuel ou VPN permet :
+<correct_answer>A. de se connecter à distance à un réseau interne de manière sécurisée</correct_answer>
+B. d'accéder au sein d'un réseau interne à des serveurs de fichiers partagés
+C. de lutter efficacement contre <<< la prise d'empreintes >>
+
+104. Le HTML (HyperText Markup Language ou langage de balises pour l'hypertexte) est :
+<correct_answer>A. un code utilisé pour structurer une page web et son contenu</correct_answer>
+B. un langage de programmation
+C. une feuille de style permettant de définir l'aspect d'un site web
+
+105. Parmi les propositions suivantes, laquelle n'est pas un service de stockage en ligne ?
+A. Google Drive
+<correct_answer>B. Vega Drive</correct_answer>
+C. iCloud
+
+106. Qu'est-ce qu'un << jeton individuel d'accès >> (token access) ?
+<correct_answer>A. Un mécanisme intégré aux procédures d'authentification qui permet une connexion</correct_answer>
+sécurisée à un espace personnel, un compte ou encore des documents bureautiques
+B. Un code alphanumérique permettant d'effectuer des achats en ligne de manière sécurisée
+C. Un jeton distribué aux personnes ne disposant pas du haut débit. Il permet une meilleure
+connexion et réduit ainsi la fracture numérique
+
+107. Qu'est-ce qu'un métavers ?
+<correct_answer>A. Un service en ligne donnant accès à des simulations d'espaces 3D temps réel dans</correct_answer>
+lesquelles on peut vivre des expériences immersives
+B. Une nouvelle forme d'intelligence artificielle
+C. Un type d'équipement numérique permettant, à un utilisateur unique identifié, l'accès aux
+ressources en permanence, notamment par le biais de connexions sans fil
+
+108. Qu'est-ce que la fracture numérique ?
+A. L'absence de dématérialisation des services publics
+<correct_answer>B</correct_answer> L'indisponibilité occasionnelle du réseau internet sur un territoire
+<correct_answer>C.</correct_answer> La disparité d'accès aux technologies informatiques
+
+110. La direction interministérielle du numérique (DINUM) est :
+<correct_answer>A.</correct_answer> une direction rattachée au ministère de la transformation et de la fonction publiques
+B. un service du secrétariat d'État au numérique
+C. une autorité administrative indépendante
+
+111. Qu'est-ce que le droit à la déconnexion ?
+A. La possibilité pour un employeur de mettre fin à la connexion sur internet d'un agent pour
+des motifs déontologiques
+B. Le droit pour un agent d'être en télétravail sans avoir accès systématiquement à un poste
+informatique
+<correct_answer>C.</correct_answer> Le droit pour un agent de ne pas être joignable en dehors de ses plages horaires
+réglementaires pour des motifs liés à l'exécution de son travail
+
+112. La Commission nationale de l'informatique et des libertés (CNIL) a été créée par :
+<correct_answer>A.</correct_answer> a loi du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+B. le règlement général sur la protection des données (RGPD) du 27 avril 2016
+C. la loi du 7 octobre 2016 pour une République numérique
+
+113. L'acteur principalement en charge de la prévention, de la surveillance et de la résolution des
+menaces informatiques en France est :
+A la direction générale de la police nationale
+<correct_answer>B.</correct_answer> 'agence nationale de sécurité des systèmes d'information
+C. la direction générale de la sécurité intérieure
+
+114. Au sens du règlement général sur la protection des données (RGPD), sont considérées
+comme des « données sensibles >> ne pouvant faire l'objet que d'un traitement limité et
+strictement encadré par la loi :
+<correct_answer>A.</correct_answer> Jes données biométriques
+B. les données fiscales
+C. les données électorales
+
+115. Depuis 2014, la saisine par voie électronique permet à toute personne, dès lors qu'elle s'est
+identifiée préalablement auprès d'une administration, d'adresser à celle-ci, par voie
+électronique, une demande, une déclaration, un document ou une information, ou lui répondre
+par la même voie :
+<correct_answer>A. ce plein droit sauf exception</correct_answer>
+B. seulement si l'administration a mis en place un téléservice ou une adresse dédiée à cette
+saisine
+C. uniquement si l'administration a préalablement contacté l'usager par voie électronique
+
+116. Le règlement général sur la protection des données (RGPD) concerne les personnes qui
+traitent des données personnelles :
+A. uniquement de ressortissants européens sur le territoire européen
+<correct_answer>B. sur le territoire européen ou qui concerne des ressortissants européens n'importe où dans
+le monde</correct_answer>
+C. uniquement de ressortissants européens n'importe où dans le monde
+
+117. Quel est le nom de la loi qui a instauré le télétravail en 2012 dans la fonction publique ?
+<correct_answer>A. La loi dite Sauvadet</correct_answer>
+B. La loi pour la modernisation de la fonction publique
+C. La loi pour une République numérique
+
+118. De combien de membres est composée la Commission nationale de l'informatique et des
+libertés (CNIL) ?
+<correct_answer>A. 8</correct_answer>
+B. 50
+C. 30
+
+119. Comment s'appelle le nouvel outil dédié aux agents de l'Etat pour l'envoi de fichiers
+volumineux (jusqu'à 20 Go)?
+A. France fichier
+<correct_answer>B. France transfert</correct_answer>
+C. File sender
+
+120. Qu'est-ce que VIGINUM créé en juillet 2021 par l'Etat et dont le premier rapport annuel a été
+rendu public le 25 octobre 2022 ?
+<correct_answer>A. Un service chargé de la vigilance et de la protection contre les ingérences numériques
+étrangères</correct_answer>
+B. Un service chargé du suivi du déploiement du numérique au sein du service public
+C. Un service chargé de la protection des données dans le cadre du déploiement du
+numérique dans la fonction publique

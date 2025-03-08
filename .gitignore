@@ -1,0 +1,11 @@
+# Python-generated files
+__pycache__/
+build/
+dist/
+wheels/
+*.egg-info
+.ropeproject
+data/temp
+# Virtual environments
+.venv
+uv.lock

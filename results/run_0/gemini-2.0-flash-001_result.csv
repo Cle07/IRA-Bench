@@ -1,0 +1,601 @@
+id,model,field,answer_place,result
+194,google/gemini-2.0-flash-001,Finances publiques,1,true
+194,google/gemini-2.0-flash-001,Finances publiques,2,true
+194,google/gemini-2.0-flash-001,Finances publiques,0,true
+194,google/gemini-2.0-flash-001,Finances publiques,0,true
+194,google/gemini-2.0-flash-001,Finances publiques,2,true
+194,google/gemini-2.0-flash-001,Finances publiques,1,true
+461,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+461,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+461,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+461,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+461,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+461,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+574,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+574,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+574,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+574,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+574,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+574,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+705,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+705,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+705,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+705,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+705,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+705,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+416,google/gemini-2.0-flash-001,Finances publiques,1,true
+416,google/gemini-2.0-flash-001,Finances publiques,2,true
+416,google/gemini-2.0-flash-001,Finances publiques,0,true
+416,google/gemini-2.0-flash-001,Finances publiques,0,true
+416,google/gemini-2.0-flash-001,Finances publiques,2,true
+416,google/gemini-2.0-flash-001,Finances publiques,1,true
+131,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+131,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+131,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+131,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+131,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+131,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+752,google/gemini-2.0-flash-001,Finances publiques,0,false
+752,google/gemini-2.0-flash-001,Finances publiques,0,false
+752,google/gemini-2.0-flash-001,Finances publiques,1,false
+752,google/gemini-2.0-flash-001,Finances publiques,2,true
+752,google/gemini-2.0-flash-001,Finances publiques,1,false
+752,google/gemini-2.0-flash-001,Finances publiques,2,true
+615,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+615,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+615,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+615,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+615,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+615,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+514,google/gemini-2.0-flash-001,Finances publiques,1,false
+514,google/gemini-2.0-flash-001,Finances publiques,2,false
+514,google/gemini-2.0-flash-001,Finances publiques,0,false
+514,google/gemini-2.0-flash-001,Finances publiques,0,false
+514,google/gemini-2.0-flash-001,Finances publiques,2,false
+514,google/gemini-2.0-flash-001,Finances publiques,1,false
+900,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+900,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+900,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+900,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+900,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+900,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+298,google/gemini-2.0-flash-001,Finances publiques,2,true
+298,google/gemini-2.0-flash-001,Finances publiques,1,true
+298,google/gemini-2.0-flash-001,Finances publiques,2,true
+298,google/gemini-2.0-flash-001,Finances publiques,1,true
+298,google/gemini-2.0-flash-001,Finances publiques,0,true
+298,google/gemini-2.0-flash-001,Finances publiques,0,true
+356,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+356,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+356,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+356,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+356,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+356,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+285,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+285,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+285,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+285,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+285,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+285,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+761,google/gemini-2.0-flash-001,Finances publiques,0,false
+761,google/gemini-2.0-flash-001,Finances publiques,0,false
+761,google/gemini-2.0-flash-001,Finances publiques,1,false
+761,google/gemini-2.0-flash-001,Finances publiques,2,false
+761,google/gemini-2.0-flash-001,Finances publiques,1,false
+761,google/gemini-2.0-flash-001,Finances publiques,2,false
+783,google/gemini-2.0-flash-001,Finances publiques,2,false
+783,google/gemini-2.0-flash-001,Finances publiques,1,true
+783,google/gemini-2.0-flash-001,Finances publiques,2,false
+783,google/gemini-2.0-flash-001,Finances publiques,1,false
+783,google/gemini-2.0-flash-001,Finances publiques,0,true
+783,google/gemini-2.0-flash-001,Finances publiques,0,true
+101,google/gemini-2.0-flash-001,Culture numérique,0,true
+101,google/gemini-2.0-flash-001,Culture numérique,0,true
+101,google/gemini-2.0-flash-001,Culture numérique,1,true
+101,google/gemini-2.0-flash-001,Culture numérique,2,true
+101,google/gemini-2.0-flash-001,Culture numérique,1,true
+101,google/gemini-2.0-flash-001,Culture numérique,2,true
+136,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+136,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+136,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+136,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+136,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+136,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+760,google/gemini-2.0-flash-001,Finances publiques,2,true
+760,google/gemini-2.0-flash-001,Finances publiques,1,true
+760,google/gemini-2.0-flash-001,Finances publiques,2,true
+760,google/gemini-2.0-flash-001,Finances publiques,1,true
+760,google/gemini-2.0-flash-001,Finances publiques,0,true
+760,google/gemini-2.0-flash-001,Finances publiques,0,true
+672,google/gemini-2.0-flash-001,Culture numérique,1,true
+672,google/gemini-2.0-flash-001,Culture numérique,2,true
+672,google/gemini-2.0-flash-001,Culture numérique,0,true
+672,google/gemini-2.0-flash-001,Culture numérique,0,true
+672,google/gemini-2.0-flash-001,Culture numérique,2,true
+672,google/gemini-2.0-flash-001,Culture numérique,1,true
+29,google/gemini-2.0-flash-001,Finances publiques,1,true
+29,google/gemini-2.0-flash-001,Finances publiques,2,true
+29,google/gemini-2.0-flash-001,Finances publiques,0,true
+29,google/gemini-2.0-flash-001,Finances publiques,0,true
+29,google/gemini-2.0-flash-001,Finances publiques,2,false
+29,google/gemini-2.0-flash-001,Finances publiques,1,false
+787,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+787,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+787,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+787,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+787,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+787,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+880,google/gemini-2.0-flash-001,Finances publiques,1,true
+880,google/gemini-2.0-flash-001,Finances publiques,2,true
+880,google/gemini-2.0-flash-001,Finances publiques,0,true
+880,google/gemini-2.0-flash-001,Finances publiques,0,true
+880,google/gemini-2.0-flash-001,Finances publiques,2,true
+880,google/gemini-2.0-flash-001,Finances publiques,1,true
+580,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+580,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+580,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+580,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+580,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+580,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+183,google/gemini-2.0-flash-001,Finances publiques,1,true
+183,google/gemini-2.0-flash-001,Finances publiques,2,true
+183,google/gemini-2.0-flash-001,Finances publiques,0,true
+183,google/gemini-2.0-flash-001,Finances publiques,0,true
+183,google/gemini-2.0-flash-001,Finances publiques,2,true
+183,google/gemini-2.0-flash-001,Finances publiques,1,true
+859,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+859,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+859,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+859,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+859,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+859,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+103,google/gemini-2.0-flash-001,Culture numérique,0,true
+103,google/gemini-2.0-flash-001,Culture numérique,0,true
+103,google/gemini-2.0-flash-001,Culture numérique,1,true
+103,google/gemini-2.0-flash-001,Culture numérique,2,true
+103,google/gemini-2.0-flash-001,Culture numérique,1,true
+103,google/gemini-2.0-flash-001,Culture numérique,2,true
+513,google/gemini-2.0-flash-001,Finances publiques,1,true
+513,google/gemini-2.0-flash-001,Finances publiques,2,true
+513,google/gemini-2.0-flash-001,Finances publiques,0,true
+513,google/gemini-2.0-flash-001,Finances publiques,0,true
+513,google/gemini-2.0-flash-001,Finances publiques,2,true
+513,google/gemini-2.0-flash-001,Finances publiques,1,true
+391,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+391,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+391,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+391,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+391,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+391,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+817,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+817,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+817,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+817,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+817,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+817,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+635,google/gemini-2.0-flash-001,Finances publiques,1,false
+635,google/gemini-2.0-flash-001,Finances publiques,2,true
+635,google/gemini-2.0-flash-001,Finances publiques,0,false
+635,google/gemini-2.0-flash-001,Finances publiques,0,true
+635,google/gemini-2.0-flash-001,Finances publiques,2,true
+635,google/gemini-2.0-flash-001,Finances publiques,1,true
+153,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+153,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+153,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+153,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+153,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+153,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+902,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+902,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+902,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+902,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+902,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+902,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+881,google/gemini-2.0-flash-001,Finances publiques,0,false
+881,google/gemini-2.0-flash-001,Finances publiques,0,false
+881,google/gemini-2.0-flash-001,Finances publiques,1,false
+881,google/gemini-2.0-flash-001,Finances publiques,2,true
+881,google/gemini-2.0-flash-001,Finances publiques,1,true
+881,google/gemini-2.0-flash-001,Finances publiques,2,true
+754,google/gemini-2.0-flash-001,Finances publiques,2,true
+754,google/gemini-2.0-flash-001,Finances publiques,1,true
+754,google/gemini-2.0-flash-001,Finances publiques,2,true
+754,google/gemini-2.0-flash-001,Finances publiques,1,true
+754,google/gemini-2.0-flash-001,Finances publiques,0,true
+754,google/gemini-2.0-flash-001,Finances publiques,0,true
+371,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+371,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+371,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+371,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+371,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+371,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+537,google/gemini-2.0-flash-001,Finances publiques,0,true
+537,google/gemini-2.0-flash-001,Finances publiques,0,true
+537,google/gemini-2.0-flash-001,Finances publiques,1,true
+537,google/gemini-2.0-flash-001,Finances publiques,2,true
+537,google/gemini-2.0-flash-001,Finances publiques,1,true
+537,google/gemini-2.0-flash-001,Finances publiques,2,true
+612,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+612,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+612,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+612,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+612,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+612,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+577,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+577,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+577,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+577,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+577,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+577,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+27,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+27,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+27,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+27,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+27,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+27,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+830,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+830,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+830,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+830,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+830,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+830,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+898,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+898,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+898,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+898,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,false
+898,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+898,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+567,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+567,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+567,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+567,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+567,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+567,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+911,google/gemini-2.0-flash-001,Finances publiques,1,true
+911,google/gemini-2.0-flash-001,Finances publiques,2,true
+911,google/gemini-2.0-flash-001,Finances publiques,0,true
+911,google/gemini-2.0-flash-001,Finances publiques,0,true
+911,google/gemini-2.0-flash-001,Finances publiques,2,true
+911,google/gemini-2.0-flash-001,Finances publiques,1,true
+59,google/gemini-2.0-flash-001,Finances publiques,2,true
+59,google/gemini-2.0-flash-001,Finances publiques,1,true
+59,google/gemini-2.0-flash-001,Finances publiques,2,true
+59,google/gemini-2.0-flash-001,Finances publiques,1,true
+59,google/gemini-2.0-flash-001,Finances publiques,0,true
+59,google/gemini-2.0-flash-001,Finances publiques,0,true
+326,google/gemini-2.0-flash-001,Culture numérique,1,true
+326,google/gemini-2.0-flash-001,Culture numérique,2,true
+326,google/gemini-2.0-flash-001,Culture numérique,0,true
+326,google/gemini-2.0-flash-001,Culture numérique,0,true
+326,google/gemini-2.0-flash-001,Culture numérique,2,true
+326,google/gemini-2.0-flash-001,Culture numérique,1,true
+192,google/gemini-2.0-flash-001,Finances publiques,2,true
+192,google/gemini-2.0-flash-001,Finances publiques,1,true
+192,google/gemini-2.0-flash-001,Finances publiques,2,false
+192,google/gemini-2.0-flash-001,Finances publiques,1,true
+192,google/gemini-2.0-flash-001,Finances publiques,0,true
+192,google/gemini-2.0-flash-001,Finances publiques,0,true
+505,google/gemini-2.0-flash-001,Finances publiques,2,true
+505,google/gemini-2.0-flash-001,Finances publiques,1,true
+505,google/gemini-2.0-flash-001,Finances publiques,2,true
+505,google/gemini-2.0-flash-001,Finances publiques,1,true
+505,google/gemini-2.0-flash-001,Finances publiques,0,true
+505,google/gemini-2.0-flash-001,Finances publiques,0,true
+208,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+208,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+208,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+208,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+208,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+208,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+402,google/gemini-2.0-flash-001,Finances publiques,2,true
+402,google/gemini-2.0-flash-001,Finances publiques,1,true
+402,google/gemini-2.0-flash-001,Finances publiques,2,true
+402,google/gemini-2.0-flash-001,Finances publiques,1,true
+402,google/gemini-2.0-flash-001,Finances publiques,0,true
+402,google/gemini-2.0-flash-001,Finances publiques,0,true
+214,google/gemini-2.0-flash-001,Finances publiques,1,true
+214,google/gemini-2.0-flash-001,Finances publiques,2,true
+214,google/gemini-2.0-flash-001,Finances publiques,0,true
+214,google/gemini-2.0-flash-001,Finances publiques,0,true
+214,google/gemini-2.0-flash-001,Finances publiques,2,true
+214,google/gemini-2.0-flash-001,Finances publiques,1,true
+573,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+573,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+573,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+573,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+573,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+573,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+744,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+744,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+744,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+744,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+744,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+744,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+563,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+563,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+563,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+563,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+563,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+563,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+387,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+387,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+387,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+387,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+387,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+387,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+849,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+849,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+849,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+849,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+849,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+849,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+95,google/gemini-2.0-flash-001,Finances publiques,0,true
+95,google/gemini-2.0-flash-001,Finances publiques,0,true
+95,google/gemini-2.0-flash-001,Finances publiques,1,true
+95,google/gemini-2.0-flash-001,Finances publiques,2,true
+95,google/gemini-2.0-flash-001,Finances publiques,1,true
+95,google/gemini-2.0-flash-001,Finances publiques,2,true
+650,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+650,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+650,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+650,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+650,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+650,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+522,google/gemini-2.0-flash-001,Finances publiques,2,true
+522,google/gemini-2.0-flash-001,Finances publiques,1,true
+522,google/gemini-2.0-flash-001,Finances publiques,2,true
+522,google/gemini-2.0-flash-001,Finances publiques,1,true
+522,google/gemini-2.0-flash-001,Finances publiques,0,true
+522,google/gemini-2.0-flash-001,Finances publiques,0,true
+299,google/gemini-2.0-flash-001,Finances publiques,1,true
+299,google/gemini-2.0-flash-001,Finances publiques,2,true
+299,google/gemini-2.0-flash-001,Finances publiques,0,true
+299,google/gemini-2.0-flash-001,Finances publiques,0,true
+299,google/gemini-2.0-flash-001,Finances publiques,2,true
+299,google/gemini-2.0-flash-001,Finances publiques,1,true
+235,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+235,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+235,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+235,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+235,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+235,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+477,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+477,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+477,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+477,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+477,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+477,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+234,google/gemini-2.0-flash-001,Culture numérique,1,false
+234,google/gemini-2.0-flash-001,Culture numérique,2,false
+234,google/gemini-2.0-flash-001,Culture numérique,0,false
+234,google/gemini-2.0-flash-001,Culture numérique,0,false
+234,google/gemini-2.0-flash-001,Culture numérique,2,false
+234,google/gemini-2.0-flash-001,Culture numérique,1,false
+582,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+582,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+582,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+582,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+582,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+582,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+436,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+436,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+436,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+436,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+436,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+436,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+148,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+148,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+148,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+148,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+148,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+148,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+475,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+475,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+475,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+475,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+475,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+475,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+448,google/gemini-2.0-flash-001,Culture numérique,0,true
+448,google/gemini-2.0-flash-001,Culture numérique,0,true
+448,google/gemini-2.0-flash-001,Culture numérique,1,true
+448,google/gemini-2.0-flash-001,Culture numérique,2,true
+448,google/gemini-2.0-flash-001,Culture numérique,1,true
+448,google/gemini-2.0-flash-001,Culture numérique,2,true
+622,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+622,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+622,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+622,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+622,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+622,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+319,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+319,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+319,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+319,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+319,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,false
+319,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+657,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+657,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+657,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+657,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+657,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+657,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+552,google/gemini-2.0-flash-001,Culture numérique,0,true
+552,google/gemini-2.0-flash-001,Culture numérique,0,true
+552,google/gemini-2.0-flash-001,Culture numérique,1,true
+552,google/gemini-2.0-flash-001,Culture numérique,2,true
+552,google/gemini-2.0-flash-001,Culture numérique,1,true
+552,google/gemini-2.0-flash-001,Culture numérique,2,true
+84,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+84,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+84,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+84,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+84,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+84,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+468,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+468,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+468,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+468,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+468,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+468,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+847,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+847,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+847,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+847,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+847,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+847,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+126,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+126,google/gemini-2.0-flash-001,Culture administrative et juridique,0,false
+126,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+126,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+126,google/gemini-2.0-flash-001,Culture administrative et juridique,1,false
+126,google/gemini-2.0-flash-001,Culture administrative et juridique,2,false
+492,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+492,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+492,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+492,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+492,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+492,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+232,google/gemini-2.0-flash-001,Culture numérique,0,true
+232,google/gemini-2.0-flash-001,Culture numérique,0,true
+232,google/gemini-2.0-flash-001,Culture numérique,1,true
+232,google/gemini-2.0-flash-001,Culture numérique,2,true
+232,google/gemini-2.0-flash-001,Culture numérique,1,true
+232,google/gemini-2.0-flash-001,Culture numérique,2,true
+908,google/gemini-2.0-flash-001,Culture numérique,2,true
+908,google/gemini-2.0-flash-001,Culture numérique,1,true
+908,google/gemini-2.0-flash-001,Culture numérique,2,true
+908,google/gemini-2.0-flash-001,Culture numérique,1,true
+908,google/gemini-2.0-flash-001,Culture numérique,0,true
+908,google/gemini-2.0-flash-001,Culture numérique,0,true
+332,google/gemini-2.0-flash-001,Culture numérique,2,true
+332,google/gemini-2.0-flash-001,Culture numérique,1,true
+332,google/gemini-2.0-flash-001,Culture numérique,2,true
+332,google/gemini-2.0-flash-001,Culture numérique,1,true
+332,google/gemini-2.0-flash-001,Culture numérique,0,true
+332,google/gemini-2.0-flash-001,Culture numérique,0,true
+775,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+775,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+775,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+775,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+775,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+775,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+304,google/gemini-2.0-flash-001,Finances publiques,1,true
+304,google/gemini-2.0-flash-001,Finances publiques,2,true
+304,google/gemini-2.0-flash-001,Finances publiques,0,true
+304,google/gemini-2.0-flash-001,Finances publiques,0,true
+304,google/gemini-2.0-flash-001,Finances publiques,2,true
+304,google/gemini-2.0-flash-001,Finances publiques,1,true
+637,google/gemini-2.0-flash-001,Finances publiques,2,true
+637,google/gemini-2.0-flash-001,Finances publiques,1,true
+637,google/gemini-2.0-flash-001,Finances publiques,2,true
+637,google/gemini-2.0-flash-001,Finances publiques,1,true
+637,google/gemini-2.0-flash-001,Finances publiques,0,true
+637,google/gemini-2.0-flash-001,Finances publiques,0,true
+252,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+252,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+252,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+252,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+252,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+252,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+295,google/gemini-2.0-flash-001,Finances publiques,0,false
+295,google/gemini-2.0-flash-001,Finances publiques,0,false
+295,google/gemini-2.0-flash-001,Finances publiques,1,false
+295,google/gemini-2.0-flash-001,Finances publiques,2,false
+295,google/gemini-2.0-flash-001,Finances publiques,1,false
+295,google/gemini-2.0-flash-001,Finances publiques,2,false
+732,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+732,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+732,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+732,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+732,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+732,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+290,google/gemini-2.0-flash-001,Finances publiques,0,true
+290,google/gemini-2.0-flash-001,Finances publiques,0,true
+290,google/gemini-2.0-flash-001,Finances publiques,1,true
+290,google/gemini-2.0-flash-001,Finances publiques,2,true
+290,google/gemini-2.0-flash-001,Finances publiques,1,true
+290,google/gemini-2.0-flash-001,Finances publiques,2,true
+696,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+696,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+696,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+696,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+696,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+696,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+425,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+425,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+425,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+425,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+425,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+425,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+440,google/gemini-2.0-flash-001,Culture numérique,1,true
+440,google/gemini-2.0-flash-001,Culture numérique,2,true
+440,google/gemini-2.0-flash-001,Culture numérique,0,true
+440,google/gemini-2.0-flash-001,Culture numérique,0,true
+440,google/gemini-2.0-flash-001,Culture numérique,2,true
+440,google/gemini-2.0-flash-001,Culture numérique,1,true
+560,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+560,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+560,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+560,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+560,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+560,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+265,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+265,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+265,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+265,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+265,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+265,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+341,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+341,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+341,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+341,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+341,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+341,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+218,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+218,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+218,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+218,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+218,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,true
+218,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,true
+442,google/gemini-2.0-flash-001,Culture numérique,2,true
+442,google/gemini-2.0-flash-001,Culture numérique,1,true
+442,google/gemini-2.0-flash-001,Culture numérique,2,true
+442,google/gemini-2.0-flash-001,Culture numérique,1,true
+442,google/gemini-2.0-flash-001,Culture numérique,0,true
+442,google/gemini-2.0-flash-001,Culture numérique,0,true
+831,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+831,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+831,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+831,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+831,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+831,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+878,google/gemini-2.0-flash-001,Finances publiques,2,true
+878,google/gemini-2.0-flash-001,Finances publiques,1,true
+878,google/gemini-2.0-flash-001,Finances publiques,2,true
+878,google/gemini-2.0-flash-001,Finances publiques,1,true
+878,google/gemini-2.0-flash-001,Finances publiques,0,true
+878,google/gemini-2.0-flash-001,Finances publiques,0,true
+117,google/gemini-2.0-flash-001,Culture numérique,0,true
+117,google/gemini-2.0-flash-001,Culture numérique,0,true
+117,google/gemini-2.0-flash-001,Culture numérique,1,true
+117,google/gemini-2.0-flash-001,Culture numérique,2,true
+117,google/gemini-2.0-flash-001,Culture numérique,1,true
+117,google/gemini-2.0-flash-001,Culture numérique,2,true
+134,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+134,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+134,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+134,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+134,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+134,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+422,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,false
+422,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,false
+422,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+422,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",0,true
+422,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",2,false
+422,google/gemini-2.0-flash-001,"Organisation, fonctionnement et politiques des institutions européennes",1,false
+51,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true
+51,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+51,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+51,google/gemini-2.0-flash-001,Culture administrative et juridique,0,true
+51,google/gemini-2.0-flash-001,Culture administrative et juridique,2,true
+51,google/gemini-2.0-flash-001,Culture administrative et juridique,1,true

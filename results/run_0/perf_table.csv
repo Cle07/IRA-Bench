@@ -1,0 +1,2 @@
+model,global_accuracy,accuracy_administratif,accuracy_fp,accuracy_international,accuracy_numerique,confidence,consistency,system_prompt,local_accuracy_A,local_accuracy_B,local_accuracy_C,missing_questions_percent
+google/gemini-2.0-flash-001,0.8200000000000002,0.7613636363636364,0.8166666666666668,0.9230769230769231,0.9230769230769231,0.71,0.79,You are a helpful assistant. Please provide your answer using only the corresponding letter.,0.85,0.79,0.82,0.0

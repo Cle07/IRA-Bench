@@ -1,0 +1,702 @@
+1. Parmi les propositions suivantes, quelle autorité dispose du pouvoir de police administrative générale ?
+ A. Le député
+ B. Le ministre des armées
+<correct_answer>C. Le maire</correct_answer>
+
+2. Vous êtes un(e) fonctionnaire du ministère de l'enseignement supérieur, de la recherche et de
+l'innovation mis(e) à disposition d'un établissement public de santé. À ce titre, vous :
+<correct_answer>A. êtes rémunéré(e) par votre administration d'origine</correct_answer>
+ B. êtes rémunéré(e) par votre organisme d'accueil
+ C. bénéficiez d'une rémunération versée à parts égales par votre administration d'origine et par votre
+organisme d'accueil
+
+3. Dans quelle partie du territoire français continue à s'appliquer le régime concordataire de 1801 régissant
+les relations entre les religions et l'Etat ?
+ A. La Nouvelle-Calédonie
+ B. La Polynésie française
+<correct_answer>C. L'Alsace-Moselle</correct_answer>
+
+4. L'intercommunalité désigne :
+ A. la fusion de cinq communes
+<correct_answer>B. la coopération entre communes au sein d'un établissement public de coopération intercommunale</correct_answer>
+ C. la commission qui exerce la tutelle d'une commune ayant des problèmes de gestion
+
+5. La transparence administrative trouve son origine :
+ A.dans la loi du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les
+administrations
+ B. dans le décret du 28 novembre 1983 concernant les relations entre l'administration et les usagers
+<correct_answer>C.dans la loi du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
+l'administration et le public</correct_answer>
+
+6. Le sigle « 3DS » du projet de loi ainsi nommé signifie :
+ A. déconcentration, décentralisation, décomplexification et simplification
+<correct_answer>B. différenciation, décentralisation, déconcentration et simplification</correct_answer>
+ C. décentralisation, développement durable, simplification
+
+7. Vous êtes en poste au sein d'un pôle d'appui juridique en région relevant du ministère de l'intérieur. Un
+agent de préfecture souhaite anticiper la survenance d'un recours contre un arrêté préfectoral de
+déclaration d'utilité publique en vue de l'expropriation d'un bien privé, et vous demande de quel ordre
+de juridiction relèverait ce contentieux, le cas échéant. Que lui indiquez-vous ?
+<correct_answer>A. Le contentieux relève de la juridiction administrative</correct_answer>
+B. Le contentieux relève de la juridiction judiciaire
+C. Le Tribunal des conflits doit être saisi pour régler cette question de compétence
+
+8. Qui exerce traditionnellement la présidence du Conseil d'Etat ?
+A. Le secrétaire général du Gouvernement
+<correct_answer>B. Le vice-président du Conseil d'Etat</correct_answer>
+C. Le Premier ministre
+
+9. En poste dans un rectorat, votre hiérarchie vous demande comment justifier un refus de communiquer
+un document administratif. Vous lui indiquez que c'est possible lorsque :
+A. la personne concernée n'est pas un ressortissant français
+B. il n'y a pas d'intérêt à agir
+<correct_answer>C. le document est préparatoire à une décision qui n'a pas encore été prise</correct_answer>
+
+10. L'administration ne peut abroger ou retirer une décision créatrice de droits que si cette décision est :
+<correct_answer>A. illégale, et si le retrait intervient dans le délai de quatre mois suivant la prise de cette décision</correct_answer>
+B. illégale
+C. illégale, et si le retrait intervient dans le délai de deux mois suivant la prise de cette décision
+
+11. Laquelle de ces institutions est une autorité administrative indépendante :
+A. la commission du contentieux du stationnement payant
+<correct_answer>B. la Haute autorité pour la transparence de la vie publique</correct_answer>
+C. l'Office national des forêts
+
+12. La notion juridique de voie de fait désigne une action de l'administration qui porte atteinte :
+<correct_answer>A. soit au droit de propriété, soit à une liberté fondamentale</correct_answer>
+B. uniquement à une liberté fondamentale
+C. uniquement au droit de propriété
+
+13. En tant que fonctionnaire, vos garanties fondamentales sont fixées par :
+A. la Constitution
+<correct_answer>B. la loi</correct_answer>
+C. le décret
+
+14. Un décret délibéré en Conseil des ministres est pris par :
+A. <correct_answer>le Président de la République</correct_answer>
+B. le Premier ministre
+C. le ministre compétent
+
+15. Avant d'être inscrites dans le statut général des fonctionnaires par la loi du 20 avril 2016 relative à la
+déontologie et aux droits et obligations des fonctionnaires, les obligations de dignité, d'impartialité,
+d'intégrité et de probité étaient :
+A. consacrées par des dispositions d'ordre réglementaire
+B. portées par le droit européen
+C. <correct_answer>consacrées par le juge administratif</correct_answer>
+
+16. Quelles sont les sanctions disciplinaires du premier groupe applicables au fonctionnaire titulaire ?
+A. <correct_answer>L'avertissement, le blâme et l'exclusion temporaire de fonctions de 1 à 3 jours</correct_answer>
+B. L'avertissement, le blâme, l'abaissement d'échelon à l'échelon immédiatement inférieur à celui
+détenu par le fonctionnaire et l'exclusion temporaire de fonctions de 4 à 15 jours
+C. L'avertissement, le blâme, la radiation du tableau d'avancement et la révocation
+
+17. Quelle juridiction est compétente en matière de contentieux de la fonction publique ?
+A. La juridiction prud'homale
+B. <correct_answer>La juridiction administrative</correct_answer>
+C. La juridiction judiciaire
+
+18. Vous êtes, en tant que fonctionnaire :
+A. titularisé dans un emploi donnant une possibilité d'avancement à divers niveaux de responsabilité
+B <correct_answer>titularisé dans un grade donnant vocation à occuper des emplois correspondant à un certain
+niveau de responsabilité</correct_answer>
+C. titulaire de votre grade et de votre emploi correspondant à un certain niveau de responsabilité
+
+19. En tant que fonctionnaire de l'Etat, vous pouvez percevoir des indemnités liées à votre statut et, le cas
+échéant, des indemnités liées à votre manière de servir, dont :
+A. l'indemnité de formation, de spécialisation et d'engagement
+B. l'indemnité de fonctions, de sujétion et d'expertise
+C. <correct_answer>le complément indemnitaire annuel</correct_answer>
+
+20. Vous êtes chef de service dans une direction régionale de l'environnement, de l'aménagement et du
+logement. L'un des ingénieurs des travaux publics de l'Etat vous informe vouloir travailler sur une mission
+de trois années, pour un bureau d'étude privé n'exerçant pas de mission de service public. L'agent va
+donc solliciter une position de :
+A. mise à disposition
+B. détachement
+<correct_answer>C. disponibilité</correct_answer>
+
+21. Depuis le 1er février 2020, quelle instance effectue les contrôles déontologiques des agents publics de
+l'Etat ?
+A. La commission de déontologie de la fonction publique
+<correct_answer>B. La Haute Autorité de transparence de la vie publique</correct_answer>
+C. Le Conseil supérieur de la fonction publique de l'Etat
+
+22. Les sanctions disciplinaires applicables aux fonctionnaires se répartissent :
+A. en quatre groupes, par ordre décroissant de sévérité
+<correct_answer>B. en quatre groupes, par ordre croissant de sévérité</correct_answer>
+C. en cinq groupes, par ordre décroissant de sévérité
+
+23. Vous êtes chef de service. Vous constatez qu'un fonctionnaire chargé de l'accueil du public distribue
+au guichet des tracts politiques. À votre avis, cet agent enfreint-il une obligation déontologique ?
+A. Non, car tout fonctionnaire bénéficie de la liberté d'opinion
+<correct_answer>B. Oui, car une obligation de neutralité s'impose à tout fonctionnaire dans l'exercice de ses fonctions</correct_answer>
+C. Oui, car une obligation de probité s'impose à tout fonctionnaire
+
+24. L'accident survenu durant le temps et sur le lieu du service est :
+A. reconnu imputable au service lorsque l'agent en apporte la preuve
+B. présumé imputable au service
+<correct_answer>C. présumé imputable au service en l'absence de faute personnelle</correct_answer>
+
+25. Vous êtes un agent en situation de handicap et souhaitez bénéficier de la reconnaissance de la qualité
+de travailleur handicapé (RQTH). Auprès de qui devez-vous déposer votre demande ?
+<correct_answer>A. La maison départementale des personnes handicapées (MDPH) de votre lieu de résidence</correct_answer>
+B. La médecine du travail de votre administration
+C. Le référent handicap de votre administration
+
+26. En tant qu'agent public, vous pouvez user de votre droit de retrait lorsque :
+A. <correct_answer>vous avez un motif raisonnable de penser que vous vous trouvez exposé à un danger grave et
+imminent pour votre vie ou votre santé et/ou vous constatez une défectuosité dans les systèmes
+de protection</correct_answer>
+B. vous avez sollicité par écrit l'usage de ce droit à votre chef de service en motivant cette demande
+sans condition particulière
+C. vous avez sollicité par écrit l'usage de ce droit à votre chef de service en motivant cette demande
+par un risque pour votre qualité de vie au travail, localisé sur votre lieu de travail
+
+27. Vous êtes attaché d'administration de l'Etat. À ce titre, en tant que fonctionnaire, vous pouvez être
+placé dans :
+A. cinq positions administratives : activité, détachement, disponibilité, congé parental ou mise à
+disposition
+B. <correct_answer>quatre positions administratives : activité, détachement, disponibilité ou congé parental</correct_answer>
+C. trois positions administratives : activité, détachement ou disponibilité
+
+28. Un fonctionnaire travaillant sous votre autorité vous demande s'il peut s'absenter pour participer à une
+campagne électorale car il se présente à une élection politique locale. Que lui répondez-vous ?
+A. <correct_answer>Un agent public se présentant à une élection politique bénéficie d'un nombre de jours
+d'autorisation d'absence plafonné pour pouvoir participer à la campagne électorale</correct_answer>
+B. Un agent public se présentant à une élection politique bénéficie d'un nombre illimité de jours
+d'autorisation d'absence pour pouvoir participer à la campagne électorale
+C. Aucune autorisation d'absence ne peut être accordée aux agents publics se présentant à une
+élection politique
+
+29. Vous êtes le référent déontologue d'un établissement public. Un agent contractuel se présentant
+comme un lanceur d'alerte souhaite dénoncer un conflit d'intérêt concernant son supérieur
+hiérarchique. Vous lui indiquez que la protection du lanceur d'alerte dans la fonction publique :
+A. ne s'applique pas aux agents contractuels
+B. <correct_answer>s'applique aux agents contractuels mais ne recouvre que la dénonciation des crimes et délits</correct_answer>
+C. s'applique aux agents contractuels et recouvre la dénonciation des crimes et délits ainsi que les
+conflits d'intérêts
+
+30. Qu'est-ce qu'un glissement vieillesse technicité (GVT) positif ?
+A. Une augmentation de la qualification des agents résultant d'un accroissement d'expérience dans
+la fonction publique
+B. <correct_answer>Un solde qui traduit l'augmentation de la masse salariale du fait de la progression des agents
+dans leurs grilles indiciaires</correct_answer>
+C. Une augmentation de la qualification des agents résultant d'un accroissement d'expérience sur
+des postes d'une même famille professionnelle au sein de la fonction publique
+
+31. Quelle sanction disciplinaire ne fait pas l'objet d'une inscription dans le dossier de l'agent ?
+A. <correct_answer>L'avertissement</correct_answer>
+B. L'exclusion temporaire de fonctions d'une durée maximale de 3 jours
+C. Le blâme
+
+32. Dans le cadre de la législation sur le non cumul des mandats, quelle est la réponse juste ?
+A. <correct_answer>Un ministre peut être maire d'une grande ville de plus de 100 000 habitants</correct_answer>
+B. Un député peut être vice-président d'un conseil régional
+C. Un maire d'une petite commune de moins de 1000 habitants peut présider un conseil
+départemental
+
+33. Qu'interdit le principe d'égalité en France ?
+A. Que des personnes placées dans des situations différentes soient traitées de façon identique
+B. <correct_answer>Que des personnes placées dans des situations identiques soient traitées différemment</correct_answer>
+C. Que des personnes placées dans des situations identiques soient traitées de façon identique
+
+34. Les ordonnances prévues à l'article 38 de la Constitution n'acquièrent pleine valeur législative qu'après
+leur :
+A. légalisation
+B. déclassement
+C. <correct_answer>ratification expresse</correct_answer>
+
+35. Pour être recevable, une proposition de loi doit :
+A. être conforme aux orientations gouvernementales
+B. avoir été examinée en commission des finances du Sénat.
+C. <correct_answer>ne pas avoir pour conséquence soit une diminution des ressources publiques soit la création ou
+l'aggravation d'une charge publique</correct_answer>
+
+36. En droit français, quelle(s) norme(s) se situe(nt) au sommet de la hiérarchie des normes ?
+A. Les actes administratifs réglementaires
+B. <correct_answer>La Constitution et le « bloc de constitutionnalité »</correct_answer>
+C. Les traités et les accords internationaux
+
+37. Pour être recevable, une motion de censure doit être signée par 1/10º au moins des membres :
+A. du Sénat
+B. <correct_answer>de l'Assemblée nationale</correct_answer>
+C. du Sénat et de l'Assemblée nationale
+
+38. Selon la Constitution, quelle est l'autorité responsable de la Défense nationale ?
+A. <correct_answer>Le Premier ministre</correct_answer>
+B. Le Président de la République
+C. Le ministre des armées
+
+39. La question prioritaire de constitutionnalité peut être utilisée par les collectivités territoriales depuis :
+A. 2008
+B. <correct_answer>2010</correct_answer>
+C. 2012
+
+40. L'article 16 de la Constitution du 4 octobre 1958:
+A. introduit la question prioritaire de constitutionnalité
+B. pose le principe du contrôle de légalité
+C. <correct_answer>régit les pouvoirs exceptionnels du Président de la République</correct_answer>
+
+41. Sous la Ve République, le chef des armées est :
+A. le Premier ministre
+B.<correct_answer>le Président de la République</correct_answer>
+C. le chef d'état-major des armées nommé par le Président de la République
+
+42. Le nombre de conseillers pour un ministre de plein exercice est, par principe, limité à :
+A. 8 conseillers
+B. 12 conseillers
+C. <correct_answer>15 conseillers</correct_answer>
+
+43. Le Conseil constitutionnel est renouvelé par tiers :
+A. <correct_answer>tous les 3 ans</correct_answer>
+B. tous les 4 ans
+C. tous les 5 ans
+
+44. Dans le cadre de la navette parlementaire, qui statue en dernier ressort en cas de désaccord entre les
+deux chambres ?
+A. Le Conseil constitutionnel
+B. Le Sénat
+C. <correct_answer>L'Assemblée nationale</correct_answer>
+
+45. Quelle affirmation, relative aux commissions d'enquête parlementaires, est inexacte ?
+A. Les personnes auditionnées peuvent être des membres du Gouvernement, des commissaires
+européens, des chercheurs, des représentants des milieux socioprofessionnels...
+<correct_answer>B. Elles peuvent être initiées par une pétition recueillant au moins 500 000 signatures</correct_answer>
+C. Les auditions sont, par principe, ouvertes à la presse et retransmises en direct sur le site internet
+de l'Assemblée nationale
+
+46. De quel(s) pouvoir(s) la Haute Autorité pour la transparence de la vie publique est-elle dotée ?
+A. Un pouvoir de sanction administrative
+<correct_answer>B. Un pouvoir de contrôle</correct_answer>
+C. Un pouvoir de contrôle et un pouvoir de sanction administrative
+
+47. Le chancelier des universités est aussi :
+A. le vice-recteur d'académie
+B. le directeur de cabinet du recteur d'académie
+<correct_answer>C. le recteur d'académie</correct_answer>
+
+48. Quel texte a autorisé le droit de vote des femmes en France ?
+A. La Constitution du 4 octobre 1958
+<correct_answer>B. L'ordonnance du 21 avril 1944</correct_answer>
+C. La Constitution du 27 octobre 1946
+
+49. Combien existe-t-il de tribunaux administratifs en France ?
+Α. 100
+B. 31
+<correct_answer>C. 42</correct_answer>
+
+50. Qui assure le secrétariat du Conseil des ministres ?
+A. Le secrétaire général de la Présidence de la République
+<correct_answer>B. Le secrétaire général du Gouvernement</correct_answer>
+C. Le ministre, porte-parole du Gouvernement
+
+51. Quelle est la durée d'un mandat de conseiller municipal ?
+A. Cinq ans
+<correct_answer>B Six ans</correct_answer>
+C. Sept ans
+
+52. Depuis la loi du 7 août 2015 portant nouvelle organisation territoriale de la République, quelle est
+l'autorité compétente en matière de mobilité interurbaine ?
+A. Le conseil départemental
+<correct_answer>B. Le conseil régional</correct_answer>
+C. La métropole
+
+53. Depuis le 1er avril 2021, les compétences des différentes entités chargées des questions économiques
+et sociales sont attribuées à :
+A. la direction régionale et interdépartementale de l'environnement, de l'aménagement et des
+transports (DRIEAT) fusionnant la direction régionale et interdépartementale de l'équipement et
+de l'aménagement (DRIEA) et la direction régionale et interdépartementale de l'environnement
+et de l'énergie (DRIEE)
+B. la direction de la recherche, des études, de l'évaluation et des statistiques (DREES) fusionnant
+les schémas régionaux de développement économique et social
+<correct_answer>C. la direction régionale et interdépartementale de l'économie, de l'emploi, du travail et des
+solidarités (DREETS) réunissant la direction régionale des entreprises, de la concurrence, de la
+consommation, du travail et de l'emploi (DIRECCTE) et la direction régionale de la cohésion
+sociale (DRCS)</correct_answer>
+
+54. Dans le cadre de la réforme de l'Etat, lesquelles des missions suivantes ont été attribuées à l'Institut
+national du service public ?
+<correct_answer>A. Le recrutement et la formation initiale des cadres supérieurs de la fonction publique de l'Etat</correct_answer>
+B. Le recrutement, la formation initiale et la politique des ressources humaines des cadres supérieurs
+de la fonction publique de l'Etat
+C. Le recrutement et la formation de tous les cadres supérieurs de la fonction publique de l'Etat, de
+la fonction publique territoriale et de la fonction publique hospitalière
+
+55. Dans le cadre d'un contentieux administratif, votre supérieur hiérarchique vous demande des éléments
+sur la formation en assemblée du contentieux du Conseil d'Etat. Vous lui indiquez que l'assemblée
+statue sur les affaires qui présentent une importance remarquable, et que :
+A. présidée par le président du Conseil d'Etat, elle comprend 17 membres
+<correct_answer>B. présidée par le vice-président du Conseil d'Etat, elle comprend 17 membres</correct_answer>
+C. présidée par le vice-président du Conseil d'Etat, elle comprend 10 membres
+
+56. Le principe de l'organisation décentralisée de la République est posé par :
+A. la loi
+<correct_answer>B. la Constitution</correct_answer>
+C. un principe général du droit
+
+57. Le contrôleur général des lieux de privation de liberté est :
+<correct_answer>A. une autorité administrative indépendante</correct_answer>
+B. rattaché au ministère de la justice
+C. un fonctionnaire du ministère de l'intérieur
+
+58. Qui est le garant de l'indépendance de l'autorité judiciaire en France :
+A. le ministre de la justice
+B. le Premier ministre
+<correct_answer>C. le Président de la République</correct_answer>
+
+59. Une agence régionale de santé est :
+A. un service déconcentré du ministère de la santé
+B. un service à compétence nationale
+<correct_answer>C.</correct_answer> un établissement public à caractère administratif placé sous tutelle du ministère de la santé
+
+60. Un établissement public local d'enseignement est :
+A. un service déconcentré du ministère de l'éducation nationale, habilité à recevoir des subventions
+de la part des collectivités territoriales
+B. une entité de droit public dotée de la personnalité morale sous tutelle d'une collectivité territoriale,
+habilitée à recevoir des subventions de la part du ministère de l'éducation nationale
+<correct_answer>C.</correct_answer> une entité de droit public dotée de la personnalité morale et de compétences relevant pour
+certaines de l'Etat et pour d'autres des collectivités territoriales
+Finances publiques
+
+61. Vous êtes adjoint gestionnaire en EPLE, votre chef d'établissement s'est absenté pour une réunion
+importante au rectorat et vous devez passer une commande urgente auprès d'un fournisseur. Le bon
+de commande valant engagement financier de l'établissement peut être signé :
+A. de droit, par le chef d'établissement adjoint
+<correct_answer>B.</correct_answer> par vous, sur la base d'une délégation de signature formalisée
+C. de droit, par l'agent comptable de l'établissement
+
+62. Parmi le champ d'intervention des chambres régionales des comptes, laquelle est une fausse
+proposition ?
+A. L'intervention en cas de retard dans le vote du budget primitif
+B. L'intervention lorsque le budget n'a pas été voté en équilibre réel
+<correct_answer>C.</correct_answer>L'intervention lorsque le budget est en excédent
+
+63. Quelle autorité au sein de la Cour des comptes intervient pour adresser un référé aux administrations
+étatiques ?
+<correct_answer>A</correct_answer> Le Premier président
+B. Le président de chambre
+C. Le procureur général
+
+64. La charge de la dette de l'Etat est :
+A. un crédit global
+<correct_answer>B.</correct_answer> un crédit évaluatif
+C. un crédit limitatif
+
+65. L'article 14 de la Déclaration des Droits de l'Homme et du Citoyen pose le principe :
+A. du recouvrement des créances de l'Etat
+<correct_answer>B.</correct_answer> du consentement à l'impôt
+C. du besoin pour la force publique de disposer de ressources
+
+66. Un régisseur d'avances et de recettes est :
+<correct_answer>A.</correct_answer> un comptable public
+B. un ordonnateur principal
+C. un ordonnateur secondaire
+
+67. Le principe d'universalité budgétaire implique :
+A. l'obligation de présenter toutes les dépenses et toutes les recettes dans un seul et même
+document
+B. la présentation de l'objet des dépenses budgétaires par structure bénéficiaire
+<correct_answer>C.</correct_answer> la non-affectation des recettes de l'Etat à une dépense spécifique
+
+68. Les dépenses relatives aux minimas sociaux sont partagées entre plusieurs acteurs :
+<correct_answer>A.</correct_answer> les départements et l'Etat
+B. les organismes sociaux et les communes
+C. les régions et les organismes sociaux
+
+69. En cas d'urgence pour augmenter les crédits ouverts en loi de finances initiale, le Gouvernement peut
+prendre :
+A. un décret pour aléas de gestion
+<correct_answer>B.</correct_answer> un décret d'avance
+C. un décret de dépenses accidentelles
+
+70. La règle du service fait interdit :
+A. de rémunérer les agents du service public sans vérifier l'exécution effective des tâches qui leur
+sont dévolues
+<correct_answer>B</correct_answer> de procéder à un paiement avant réalisation de la prestation commandée
+C. de recruter des comptables n'ayant pas participé à la journée défense et citoyenneté
+
+71. La gestion de la dette, de la trésorerie de l'Etat ainsi que les activités post-marché est assumée par :
+<correct_answer>A</correct_answer> l'agence France Trésor
+B. le Trésor Public
+C. la direction du budget
+
+72. Les perspectives de dépenses et d'emplois de l'année n+1 sont notifiées aux différents ministères par
+le biais :
+<correct_answer>A.</correct_answer> d'une lettre-plafond signée par le Premier ministre
+B. de la publication d'un arrêté ministériel
+C. d'une note visée par la direction du budget
+
+73. Quelles sont les politiques publiques les plus coûteuses du budget de l'Etat ?
+A. La défense et les sécurités
+B. La justice, le conseil et le contrôle de l'Etat
+<correct_answer>C.</correct_answer> L'éducation et la recherche
+
+74. Encadré depuis 2006 par la loi organique relative aux lois de finances (LOLF), le budget annuel est
+également élaboré dans le respect de :
+A. la loi de règlement initiale
+<correct_answer>B. la loi de programmation des finances publiques</correct_answer>
+C. la loi de programme budgétaire
+
+75. Les rapports annuels de performance (RAP) sont annexés :
+A. au collectif budgétaire
+<correct_answer>B. à la loi de règlement</correct_answer>
+C. à la loi de finances initiale
+
+76. Quelle est l'autorité interlocutrice du contrôleur budgétaire et comptable ministériel ?
+<correct_answer>A. Le responsable de budget opérationnel de programme</correct_answer>
+B. Le responsable d'unité opérationnelle
+C. Le contrôleur de gestion
+
+77. La taxe sur la valeur ajoutée est, au sens de la loi organique relative aux lois de finances :
+A. un prélèvement obligatoire
+B. une recette non fiscale
+<correct_answer>C. une recette fiscale</correct_answer>
+
+78. Vous êtes responsable du service « budget et administration » d'une école de formation du service
+public. Votre chef d'établissement, ordonnateur secondaire, vous indique que l'achat d'un matériel a
+été reporté à l'année suivante. II souhaite que les crédits ainsi libérés soient employés pour le
+versement de primes annuelles destinées au personnel de l'école :
+A. vous lui indiquez que vous allez solliciter cette fongibilité au responsable du budget opérationnel
+de programme
+B. vous lui indiquez que vous allez procéder à une modification de votre programmation budgétaire
+en ce sens
+<correct_answer>C. vous lui indiquez que ce n'est pas possible en raison du principe de fongibilité asymétrique</correct_answer>
+
+79. Le déficit public correspond :
+A. au déficit budgétaire
+B. à l'endettement de l'Etat
+<correct_answer>C. au déficit des collectivités territoriales, de la sécurité sociale et de l'Etat</correct_answer>
+
+80. La responsabilité disciplinaire de l'ordonnateur public relève de la Cour de discipline budgétaire et
+financière, excepté pour :
+A. les ordonnateurs principaux
+B. les ordonnateurs secondaires
+<correct_answer>C. les ordonnateurs exerçant les fonctions de membre du Gouvernement</correct_answer>
+
+81. L'organe juridictionnel actuel de l'Union européenne, la Cour de justice de l'Union européenne, a
+historiquement été constitué :
+<correct_answer>A. en 1952 avec le Traité instituant la Communauté européenne du charbon et de l'acier</correct_answer>
+B. en 1992 avec le Traité sur l'Union européenne
+C. en 2009 avec le Traité sur le fonctionnement de l'Union européenne
+
+82. La Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales a été
+ratifiée par :
+<correct_answer>A. 47 Etats dont les 27 membres de l'Union européenne</correct_answer>
+B. 27 Etats dont 22 sont membres de l'Union européenne
+C. 37 Etats dont 19 sont membres de l'Union européenne
+
+83. Parmi les principes fondamentaux qui sont à la base de l'Union et qui sont énoncés par le traité
+d'Amsterdam, on retrouve :
+A. la liberté religieuse
+B. la liberté de la presse
+<correct_answer>C. la démocratie</correct_answer>
+
+84. La Cour de justice de l'Union européenne statue à titre préjudiciel :
+A. lorsque la Commission européenne la saisit parce qu'un État membre a manqué aux obligations
+qui lui incombent en vertu des traités
+<correct_answer>B. lorsqu'un juge national la saisit pour lui poser une question relative à l'interprétation ou la validité
+du droit de l'Union européenne</correct_answer>
+C. lorsqu'un Etat membre la saisit pour juger de la légalité d'un acte de la Commission européenne
+destiné à produire des effets juridiques à l'égard des tiers
+
+85. L'article 7 du Traité sur l'Union européenne donne la possibilité à l'Union européenne de sanctionner
+un Etat membre qui ne respecterait pas ses valeurs fondatrices. Lequel des pays suivants a déjà été
+visé par cette procédure ?
+A. Le Royaume-Uni
+<correct_answer>B. La Pologne</correct_answer>
+C. Le Danemark
+
+86. Le président de la Commission européenne est élu par :
+A. le Parlement européen sur proposition du Conseil de l'Union européenne
+B. le Conseil de l'Union européenne sur proposition du Conseil européen
+<correct_answer>C. le Parlement européen sur proposition du Conseil européen</correct_answer>
+
+87. En 2021, la France a été :
+ A. le premier contributeur au budget de l'Union européenne devant l'Allemagne
+<correct_answer>B. le deuxième contributeur au budget de l'Union européenne derrière l'Allemagne</correct_answer>
+ C. le troisième contributeur au budget de l'Union européenne derrière l'Allemagne et l'Italie
+
+88. La France a assuré la présidence du Conseil de l'Union européenne pour la première fois en :
+Α. 1974
+Β. 1968
+<correct_answer>C. 1959</correct_answer>
+
+89. Les Etats européens définissent le cadre financier pluriannuel de l'Union européenne au moins :
+A. tous les ans
+<correct_answer>B tous les 5 ans</correct_answer>
+C. tous les 7 ans
+
+90. Quelle est la mission de la Banque européenne d'investissement?
+ A. Contribuer, en faisant appel aux marchés des capitaux, au financement des déficits publics des
+Etats membres de la zone euro
+<correct_answer>B. Contribuer, en faisant appel aux marchés des capitaux et à ses ressources propres, au
+développement équilibré du marché intérieur dans l'intérêt de l'Union européenne</correct_answer>
+ C. Se substituer aux Etats membres de l'Union européenne en matière de soutien aux
+investissements des PME d'ici 2027
+
+91. Quel est le dernier pays à avoir intégré l'Union européenne en 2013?
+ A. Le KosOVO
+B. L'Islande
+<correct_answer>C. La Croatie</correct_answer>
+
+92. L'accord de commerce et de coopération entre le Royaume-Uni et l'Union européenne, signé le 24
+décembre 2020, comprend des dispositions permettant :
+ A. le libre accès des pêcheurs européens aux eaux britanniques
+ B. la libre circulation des personnes entre le Royaume-Uni et la France
+<correct_answer>Cdes échanges de biens et services sans droits de douane ni quotas</correct_answer>
+
+93. Parmi ces pays, lequel n'est pas candidat pour intégrer l'Union européenne?
+<correct_answer>A L'Islande</correct_answer>
+ B. La Turquie
+ C. Le Monténégro
+
+94. Dans quel Traité ont été posés les bases et les principes de la politique européenne de l'environnement :
+A. le Traité de Rome
+<correct_answer>B. l'Acte unique européen</correct_answer>
+C. le Traité de Nice
+
+95. Depuis quand un Etat a-t-il la possibilité de se retirer de l'Union ?
+<correct_answer>A. Depuis le traité de Lisbonne</correct_answer>
+B. Depuis le traité de Maastricht
+C. Depuis le traité de Rome
+
+96. Pour accéder à la monnaie unique, les Etats doivent respecter les critères de convergence définis lors
+du Traité de Maastricht. Parmi eux :
+<correct_answer>A. e plafond de 3% du PIB pour le déficit public annuel</correct_answer>
+B. le plafond de 3% du PIB pour la dette publique
+C. le plafond de 2% d'inflation
+
+97. Parmi ces Etats membres de l'Union européenne, lequel ne fait pas partie de l'espace Schengen?
+A. La Lituanie
+B. La Pologne
+<correct_answer>C. La Roumanie</correct_answer>
+
+98. L'Union européenne dispose d'un statut de membre à part entière dans l'organisation suivante :
+<correct_answer>A. l'Organisation Mondiale du Commerce</correct_answer>
+B. l'Organisation Mondiale de la Santé
+C. l'Organisation des Nations unies pour l'éducation, la science et la culture
+
+99. Le Conseil des gouverneurs de la Banque centrale européenne a notamment pour missions de :
+<correct_answer>A définir la politique monétaire de la zone euro et prendre les décisions nécessaires à
+l'accomplissement des missions confiées à l'Eurosystème</correct_answer>
+B. mettre en œuvre la politique monétaire de la zone euro en lien avec les banques centrales
+nationales des pays de l'Union européenne
+C. s'assurer de la coordination des politiques économiques et sociales des Etats membres de l'Union
+européenne
+
+100. Chef du service Europe et international au ministère de l'agriculture et de l'alimentation, vous êtes
+invité(e) à une conférence-débat dans une université sur le thème de la politique agricole commune
+(PAC) et de sa prochaine réforme. À un étudiant qui vous pose la question, vous répondez que la
+politique de développement rural représente environ :
+<correct_answer>A. 23% du budget de la PAC</correct_answer>
+B. 77% du budget de la PAC
+C. 52% du budget de la PAC
+
+101. Quelle est la différence entre « https » et << http >> ?
+ A. Aucune
+ B. Une abréviation plus courte pour une connexion plus rapide
+ <correct_answer>C. La version sécurisée du protocole de communication qui permet la liaison entre un client et un
+ serveur pour le World Wide Web (www)</correct_answer>
+
+102. Quel est le rôle de l'administrateur de réseau informatique ?
+ <correct_answer>A. Il a la responsabilité de gérer le serveur de la structure et de répondre aux demandes de ses
+ utilisateurs</correct_answer>
+ B. Il récolte toutes les données personnelles des utilisateurs
+ C. Il peut déroger sans restriction aux règles des marchés publics en matière d'informatique
+
+103. À quoi sert le pare-feu ?
+ A. C'est une barrière pour les sites interdits aux moins de 18 ans
+ <correct_answer>B. C'est une barrière de protection du réseau</correct_answer>
+ C. C'est une barrière de protection contre les spams
+
+104. Le clavier << QWERTY » est conçu pour assurer une disposition optimale des lettres de l'alphabet sur
+les claviers :
+ <correct_answer>A. anglo-saxons</correct_answer>
+ B. allemands
+ C. coréens
+
+105. Qu'est-ce qu'un QR CODE ?
+ A. C'est un code à reconnaissance faciale
+ <correct_answer>B. C'est un type de code-barres nouvelle génération qui permet de stocker des informations et de
+ les rendre lisibles rapidement</correct_answer>
+ C. C'est un code à reconnaissance digitale
+
+106. À quoi sert un Virtual Private Network (ou Réseau Privé Virtuel) ?
+ A. À augmenter son débit internet
+ <correct_answer>B. À sécuriser les échanges de données entre deux ordinateurs distants</correct_answer>
+ C. À bloquer les logiciels malveillants
+
+107. À quoi sert le Réseau Interministériel de l'Etat (RIE)?
+ <correct_answer>A À structurer en un seul et unique réseau sécurisé l'ensemble des services de l'Etat</correct_answer>
+ B. À réaliser le contrôle interne comptable et financier de l'ensemble des services déconcentrés de
+ l'Etat
+ C. À constituer un réseau social dédié aux plateformes RH interministérielles
+
+108. À quoi sert « FRANCE CONNECT » ?
+A. <correct_answer>À sécuriser et simplifier la connexion à plusieurs sites de l'Etat en garantissant l'identité de
+l'utilisateur</correct_answer>
+B. A identifier des sites sécurisés
+C. À décerner un label qualité aux sites d'administration en ligne
+
+109. Qu'est-ce que la stratégie nationale pour un numérique inclusif ?
+A. Une stratégie de développement d'équipements informatiques pour les personnes en situation de
+handicap
+B. Une stratégie digitale visant à lutter contre les discriminations
+C. <correct_answer>Une stratégie mise en place pour former et accompagner les usagers les plus éloignés d'Internet</correct_answer>
+
+110. Qu'est-ce que l'erreur 504 du protocole de communication internet ?
+A <correct_answer>Un échec de connexion du fait d'un délai d'attente expiré lors du traitement de la requête</correct_answer>
+B. Une clé d'authentification nécessaire afin d'accéder à des ressources
+C. Un message signalant une source non certifiée
+
+111. Pourquoi y a-t-il actuellement une pénurie mondiale de puces et de composants informatiques ?
+A. <correct_answer>À cause de la pandémie de COVID-19</correct_answer>
+B. À cause de l'épuisement des ressources terrestres en silicium
+C. À cause de droits de douane trop élevés qui paralysent les marchés
+
+112. À qui est rattachée la direction interministérielle du numérique (DINUM) ?
+A. <correct_answer>Au secrétaire général du Gouvernement</correct_answer>
+B. Au ministre de l'intérieur
+C. Au secrétaire d'Etat chargé de la transition numérique et des communications électroniques
+
+113. L'expression « fracture numérique » désigne :
+A. <correct_answer>les inégalités dans l'usage et l'accès aux technologies numériques</correct_answer>
+B. une technologie qui s'est brisée
+C. une multitude d'accès au numérique
+
+114. Qu'est-ce que l'ANSSI ?
+A. L'Antenne Nationale de la Sécurité des Serveurs et d'Ingénierie
+B. <correct_answer>L'Agence Nationale de la Sécurité des Systèmes d'Information</correct_answer>
+C. L'Agence des Nouveaux Systèmes de Sécurité Industriels
+
+115. Que permet la mise en œuvre du principe « Dites-le-nous une fois » ?
+A. <correct_answer>Le partage des données entre administrations habilitées, afin de simplifier les démarches en ligne</correct_answer>
+B. La restriction de la consultation de données en ligne
+C. Le recueil de l'avis des utilisateurs sur les applicatifs ministériels
+
+116. Le plan mis en place en novembre 2021 par le ministère de la transformation et de la fonction
+publiques en matière de numérique est :
+A. le plan d'échange de « bonnes pratiques sur le numérique >>
+B. le plan de << soutien au numérique »
+C. <correct_answer>le plan d'action << logiciels libres et communs numériques »</correct_answer>
+
+117. Que vise le programme « TECH.GOUV » piloté par la DINUM ?
+A. Il vise à développer le télétravail
+B. Il vise à numériser les archives du gouvernement
+C. <correct_answer>Il vise à accélérer la transformation numérique du service public</correct_answer>
+
+118. Le site << PIX >> est :
+A. <correct_answer>un service public en ligne d'évaluation, de développement et de certification de ses compétences
+numériques</correct_answer>
+B. un site en ligne qui permet de se connecter à des jeux en ligne
+C. un service en ligne qui regroupe l'ensemble des offres d'emplois publics
+
+119. Qu'est-ce qu'une arborescence ?
+A. Une liste de termes
+B. <correct_answer>Une représentation visuelle, en forme d'arbre, des pages d'un site internet</correct_answer>
+C. Une liste chronologique
+
+120. Quel est l'autre nom d'un « cookie » ?
+A. Témoin de fichier
+B. Témoin de serveur
+C. <correct_answer>Témoin de connexion</correct_answer>

@@ -1,0 +1,644 @@
+1. La question prioritaire de constitutionnalité :
+A. peut être posée par tout citoyen ayant eu connaissance d'une disposition réglementaire portant
+atteinte aux droits et libertés que la Constitution garantit
+B. peut être posée en l'absence de tout litige
+<correct_answer>C. </correct_answer>s'applique à une loi déjà entrée en vigueur
+
+2. Le discours du Président de la République devant le Parlement réuni en Congrès est suivi :
+A. d'un débat avec vote
+<correct_answer>B.</correct_answer> d'un débat sans vote, sans sa présence
+C. d'un débat sans vote, en sa présence
+
+3. Dans la hiérarchie des normes, les principes généraux du droit auxquels se réfère le juge
+administratif se situent :
+A au-dessus du bloc législatif et au-dessous du bloc conventionnel
+<correct_answer>B.</correct_answer> au-dessus du bloc réglementaire et au-dessous du bloc législatif
+C. au-dessous du bloc réglementaire
+
+4. Hors cas d'urgence, le Conseil constitutionnel doit statuer sur la constitutionnalité d'une loi avant sa
+promulgation dans un délai de :
+A. deux mois
+B quinze jours
+<correct_answer>C.</correct_answer> un mois
+
+5. Les députés sont élus au :
+<correct_answer>A.</correct_answer> suffrage universel direct, scrutin majoritaire à deux tours
+B. suffrage universel indirect, scrutin majoritaire à deux tours
+C. suffrage universel direct, scrutin proportionnel à deux tours
+
+6. Les membres du Conseil constitutionnel sont nommés pour :
+A un mandat de six ans
+<correct_answer>B.</correct_answer> un mandat de neuf ans
+C. à vie
+
+8. Le référendum d'initiative partagée permet à une proposition de loi :
+A. présentée par au moins un cinquième des membres de l'Assemblée nationale, d'être inscrite à l'ordre du jour de l'Assemblée si elle est soutenue par 10% des électeurs
+B. présentée par au moins la moitié des membres du Parlement, d'être inscrite à l'ordre du jour des assemblées si elle est soutenue par au moins trois millions d'électeurs
+<correct_answer>C.</correct_answer> présentée par au moins un cinquième des membres du Parlement, d'être inscrite à l'ordre du jour des assemblées si elle est soutenue par 10% des électeurs
+
+9. La Cour de justice de la République est compétente pour juger de la responsabilité pénale à raison
+des actes accomplis dans l'exercice des fonctions, qualifiés de crimes ou délits au moment où ils
+ont été commis :
+A. du Président de la République
+<correct_answer>B. des membres du Gouvernement</correct_answer>
+C. des membres du Gouvernement et des parlementaires
+
+10. Selon l'article 8 de la Constitution, les membres du Gouvernement sont nommés par :
+<correct_answer>A. le Président de la République sur proposition du Premier ministre</correct_answer>
+B. le Premier ministre sur proposition du Président de la République
+C. le secrétaire général du Gouvernement
+
+11. Un député représente :
+A. sa circonscription d'élection
+<correct_answer>B. la Nation</correct_answer>
+C. le département où il a été élu
+
+13. Selon l'article 72 de la Constitution, dans les collectivités territoriales de la République, le
+représentant de l'Etat représente :
+A. le Premier ministre
+B. le ministre de l'intérieur
+<correct_answer>C. chacun des membres du Gouvernement</correct_answer>
+
+14. Selon l'article 72-3 de la Constitution :
+A. la République française reconnaît les peuples d'outre-mer, dans un idéal commun de liberté,
+d'égalité et de fraternité
+<correct_answer>B. la République reconnaît, au sein du peuple français, les populations d'outre-mer, dans un idéal
+commun de liberté, d'égalité et de fraternité</correct_answer>
+C. la République française reconnaît le peuple corse, dans un idéal commun de liberté, d'égalité
+et de fraternité
+
+15. L'article 16 de la Constitution relatif aux pouvoirs exceptionnels pouvant être confiés au Président
+de la République a été activé :
+A. jamais
+<correct_answer>B. une fois, en 1961</correct_answer>
+C. deux fois, en 1961 et 1968
+
+16. Le Tribunal des conflits :
+<correct_answer>A. tranche les conflits de compétence entre les juridictions de l'ordre judiciaire et les juridictions de
+l'ordre administratif</correct_answer>
+B. renvoie systématiquement l'affaire qui lui est soumise à un juge judiciaire ou administratif
+C. n'est amené à rejuger une affaire que s'il a été saisi par le préfet
+
+17. Les trois conditions permettant d'engager la responsabilité de l'administration sont :
+A. un préjudice, une faute, un lien de causalité
+<correct_answer>B. un préjudice, un fait générateur, un lien de causalité</correct_answer>
+C. un préjudice matériel réparable, un fait générateur, un lien de causalité
+
+18. Les missions du Conseil d'Etat sont :
+A. conseiller le Gouvernement et le Parlement, juger les litiges relatifs aux actes de l'administration, gérer la juridiction administrative
+B. conseiller le Gouvernement, juger tous les litiges relatifs aux actes de l'Etat, gérer la juridiction administrative
+<correct_answer>C. conseiller le Gouvernement, trancher certains litiges relatifs aux actes de l'administration, gérer la juridiction administrative</correct_answer>
+
+19. Le principe qui fonde la théorie de l'imprévision est :
+<correct_answer>A. le principe de continuité</correct_answer>
+B. le principe de neutralité
+C. le principe d'égalité
+
+20. Un recours pour excès de pouvoir vise à obtenir :
+A. la sanction du fonctionnaire à l'origine de l'acte administratif objet du recours
+B la suspension d'un acte administratif
+<correct_answer>C. l'annulation d'un acte administratif</correct_answer>
+
+21. La procédure du référé liberté vise :
+A. une liberté fondamentale à laquelle un citoyen aurait porté atteinte de manière grave et manifestement illégale
+B. une atteinte grave et manifestement illégale à la liberté d'administration des collectivités territoriales
+C. une liberté fondamentale à laquelle une administration aurait porté atteinte de manière grave et manifestement illégale
+
+22. La norme communautaire d'application directe dans le droit interne français est :
+<correct_answer>A. le règlement européen</correct_answer>
+B. la directive européenne
+C. la jurisprudence du Conseil de l'Europe
+
+23. L'un de ces principes n'organise pas le régime juridique du service public << à la française » :
+A. la mutabilité
+<correct_answer>B. la concurrence</correct_answer>
+C. la continuité
+
+24. Un lanceur d'alerte protégé par la loi française est :
+<correct_answer>A. une personne physique qui révèle ou signale une menace ou un préjudice graves pour l'intérêt général</correct_answer>
+B. une personne physique ou morale qui révèle ou signale une menace ou un préjudice graves pour l'intérêt général
+C. exclusivement un agent public qui révèle ou signale, dans l'exercice de ses fonctions, une menace ou un préjudice graves pour l'intérêt général
+
+25. Lequel de ces principes ne fait pas partie des principes fondamentaux du service public ?
+A. la continuité du service public
+B. l'égalité devant le service public
+<correct_answer>C. la gratuité du service public</correct_answer>
+
+26. Un service à compétence nationale est :
+A. un service d'administration centrale dont la mission est de concevoir une politique publique
+B. un service déconcentré de l'Etat réparti sur l'ensemble du territoire national
+<correct_answer>C. un service à vocation opérationnelle dont la compétence s'étend sur l'ensemble du territoire
+ français</correct_answer>
+
+27. L'organisation des administrations centrales relève :
+A. du pouvoir constituant
+<correct_answer>B. du pouvoir réglementaire</correct_answer>
+C. du pouvoir législatif
+
+28. L'avis du CESE doit être obligatoirement recueilli :
+<correct_answer>A. sur tous les projets de plan et les projets de loi de programmation à caractère économique,
+ social ou environnemental</correct_answer>
+B. sur tout projet ou proposition de loi
+C. sur les projets de loi de programmation définissant les orientations pluriannuelles des finances
+ publiques
+
+29. Les personnels techniques des lycées sont recrutés et gérés par :
+A. le ministère de l'éducation nationale
+<correct_answer>B. les régions</correct_answer>
+C. les rectorats d'académie
+
+30. Dans un ministère, le secrétaire général assure une mission :
+A. de responsable hiérarchique de tous les directeurs et directeurs généraux du ministère
+B. de représentation du ministre et d'organisation de son Cabinet
+<correct_answer>C. de coordination des services et de modernisation du ministère</correct_answer>
+
+31. La collectivité chef de file en matière d'aide sociale, d'autonomie des personnes et de solidarité des
+ territoires est :
+A. la région
+<correct_answer>B. le département</correct_answer>
+C. la métropole en tant qu'établissement public de coopération intercommunale
+
+33. Quel est le statut de la Nouvelle-Calédonie ?
+<correct_answer>A. une collectivité *sui generis*</correct_answer>
+B. un territoire d'outre-mer
+C. un pays d'outre-mer
+
+34. Le préfet est le représentant direct dans le département :
+A. du Président de la République
+<correct_answer>B. du Premier ministre et des ministres</correct_answer>
+C. uniquement du ministre de l'intérieur
+
+35. Les services déconcentrés de l'éducation nationale, au niveau de l'académie, sont placés sous l'autorité :
+A. du directeur académique des services de l'éducation nationale
+<correct_answer>B. du recteur</correct_answer>
+C. de l'inspecteur d'académie
+
+36. Le Défenseur des droits est :
+A. un délégué interministériel, placé sous la responsabilité hiérarchique du Premier ministre
+B. un service placé sous l'autorité du Garde des sceaux, ministre de la justice
+<correct_answer>C. une autorité administrative indépendante</correct_answer>
+
+37. Un groupement d'intérêt public :
+A. est une structure de coopération entre personnes physiques ou morales dont l'objectif est de faciliter le développement économique d'entreprises par la mutualisation de ressources, matérielles ou humaines
+<correct_answer>B. permet à des partenaires publics et privés de mettre en commun des moyens pour la mise en œuvre de missions d'intérêt général</correct_answer>
+C. est un organisme de mécénat qui permet la mise à disposition d'un patrimoine au service d'une cause d'intérêt général. Il est créé par décret en Conseil d'Etat
+
+38. Est justiciable devant la Cour de discipline budgétaire et financière :
+<correct_answer>A. tout fonctionnaire ou agent civil ou militaire de l'Etat, des collectivités territoriales, de leurs établissements publics</correct_answer>
+B. tout membre du Gouvernement, ministre ou secrétaire d'Etat
+C. tout comptable public
+
+39. Le bureau central des cultes, chargé des relations avec les autorités représentatives des religions présentes en France est, en application de la loi de 1905, rattaché :
+A. à l'Observatoire de la laïcité
+B. au secrétariat général du Gouvernement
+<correct_answer>C. au ministère de l'intérieur</correct_answer>
+
+40. Le secrétariat général aux affaires européennes a essentiellement pour mission :
+A. de conduire les négociations au sein des instances du Conseil de l'Union européenne
+B. de représenter le ministre chargé des affaires européennes auprès du Conseil de l'Union européenne
+<correct_answer>C. d'assurer la coordination interministérielle pour les questions européennes ainsi que pour les activités de l'Organisation de coopération et de développement économiques</correct_answer>
+
+41. La publication des lois et décrets au Journal officiel est assurée par :
+A. l'Imprimerie nationale
+<correct_answer>B. le secrétariat général du Gouvernement</correct_answer>
+C. le service de communication du cabinet du Premier ministre
+
+42. Le démembrement d'une administration publique consiste à :
+A. supprimer un service public
+<correct_answer>B. confier tout ou partie de son activité à une institution de droit privé afin de bénéficier d'un régime
+juridique plus souple</correct_answer>
+C. modifier l'organisation d'une administration centrale
+
+43. Les agences régionales de santé :
+A. sont des services déconcentrés de l'Etat
+B. sont des groupements d'intérêt public créés par l'Etat et la Sécurité sociale
+<correct_answer>C. sont des établissements publics, dotés de l'autonomie morale et financière, placés sous la
+tutelle des ministères chargés des affaires sociales et de la santé</correct_answer>
+
+44. Les directions régionales des finances publiques sont placées sous l'autorité :
+<correct_answer>A. du ministre chargé des comptes publics</correct_answer>
+B. des préfets de régions
+C. de la Cour des comptes
+
+45. Localement, la gestion opérationnelle de crise est assurée par :
+A. le maire de la commune concernée
+<correct_answer>B. le préfet de département</correct_answer>
+C. le directeur régional ou départemental du service ministériel concerné
+
+46. Le comité de l'administration régionale :
+<correct_answer>A. réunit, sous la présidence du préfet de région, les préfets de département et des directeurs
+régionaux des services de l'Etat</correct_answer>
+B. réunit, sous la présidence du préfet de région, les services de la préfecture et du conseil régional
+C. est présidé alternativement par le préfet de région et par le président du conseil régional
+
+47. Qu'institue la loi de transformation de la fonction publique de 2019 en matière de droit et d'inclusion
+des personnes handicapées ?
+A. Le comité interministériel du handicap
+B. Le fonds pour l'insertion des personnes handicapées dans la fonction publique
+<correct_answer>C. Le droit de consulter un référent handicap</correct_answer>
+
+48. Il est possible de devenir attaché d'administration hors classe de l'Etat par :
+<correct_answer>A. l'inscription au tableau d'avancement</correct_answer>
+B. un concours
+C. un examen professionnel
+
+49. L'agence France Compétences créée par la loi du 5 septembre 2018 a pour mission principale :
+A. le développement de la formation initiale des étudiants
+<correct_answer>B. la régulation et le financement de la formation professionnelle et de l'apprentissage</correct_answer>
+C. la représentation de la francophonie dans le monde professionnel étranger
+
+50. Quelle décision administrative ne relève pas d'une mesure disciplinaire ?
+<correct_answer>A. La mise à la retraite d'office d'un agent public</correct_answer>
+B. La suspension d'un agent public
+C. L'abaissement d'échelon d'un agent public
+
+51. Depuis 2018, un fonctionnaire placé en disponibilité peut conserver ses droits à l'avancement
+d'échelon et de grade durant 5 ans dans le cas où :
+<correct_answer>A. il exerce une activité professionnelle au cours de la période de disponibilité</correct_answer>
+B. il justifie d'une inscription dans un cycle de formation initiale au cours de la période de
+disponibilité
+C. il est à moins de trois ans de son départ à la retraite
+
+52. Que signifie l'acronyme RIFSEEP?
+A. Régime interministériel lié à la fonction, aux sujétions, à l'expertise et à l'expérience
+professionnelle
+B. Régime indemnitaire tenant compte des fonctions, des sujétions, de l'emploi et de l'expérience
+professionnelle
+<correct_answer>C. Régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de
+l'engagement professionnel</correct_answer>
+
+53. Le gestionnaire d'un collège public est un agent :
+<correct_answer>A. de l'académie</correct_answer>
+B. du conseil départemental
+C. du conseil régional
+
+54. Un fonctionnaire peut-il mener des activités à but lucratif dans le cadre du statut d'autoentrepreneur ?
+A Non
+<correct_answer>B. Oui, selon des conditions fixées par la loi et le règlement</correct_answer>
+C. Oui, sans restriction
+
+55. Les emplois de fonctionnaire des administrations publiques françaises sont ouverts :
+A. aux personnes de nationalité française exclusivement
+B. aux personnes de nationalité française et à celles disposant d'un titre de séjour en France,
+quelle que soit leur nationalité
+<correct_answer>C. aux personnes de nationalité française et, sauf exception, aux ressortissants des Etats
+membres de l'Union européenne</correct_answer>
+
+56. La loi du 20 avril 2016 relative à la déontologie et aux droits et obligations des fonctionnaires :
+A. ne s'applique pas aux militaires
+<correct_answer>B oblige tout agent public à dénoncer les faits pénalement répréhensibles dont il a connaissance</correct_answer>
+C. permet à un agent lanceur d'alerte de dénoncer un conflit d'intérêt
+
+57. Quelle est la durée annuelle de travail effectif des agents civils de l'Etat ?
+A. 1 807 heures
+<correct_answer>B. 1 607 heures</correct_answer>
+C. 1 706 heures
+
+58. Les listes des candidats aux élections professionnelles sont composées :
+<correct_answer>A. d'un nombre de femmes et d'hommes correspondant à la part des femmes et des hommes
+inscrits sur les listes électorales</correct_answer>
+B. d'un nombre paritaire de femmes et d'hommes
+C. d'un nombre de femmes au moins égal à 40% des candidats
+
+59. Que désigne l'acronyme GVT ou glissement vieillissement technicité ?
+A. Le système de gestion et de vérification des traitements des fonctionnaires
+B. Le garant de la valeur technique du point d'indice de la fonction publique
+<correct_answer>C.</correct_answer> L'effet sur la masse salariale des avancements à l'ancienneté et des promotions
+
+60. Les comités sociaux d'administration, nouvelles instances de dialogue social, sont mis en place dans
+la fonction publique d'Etat :
+A. dès 2021
+B. en 2022
+<correct_answer>C.</correct_answer> en 2023
+Finances publiques
+
+61. Qui est l'ordonnateur au sein d'un EPLE?
+A. L'agent comptable
+<correct_answer>B. Le chef d'établissement, proviseur ou principal</correct_answer>
+C. Le gestionnaire
+
+62. Que signifie le principe d'universalité en matière de finances publiques ?
+A. La durée de l'exercice budgétaire est fixée à un an
+B L'ensemble des dépenses et des recettes doit figurer dans un document unique
+<correct_answer>C. II ne doit pas y avoir de compensation entre dépenses et recettes de l'Etat, ni affectation d'une
+recette à une dépense déterminée</correct_answer>
+
+63. À quoi correspond la gestion de fait?
+A. Aux opérations dont les comptables publics sont chargés
+B À l'ordre donné par l'ordonnateur au comptable de payer une dépense
+C. Au maniement de deniers publics par une personne qui n'a pas la qualité de comptable public
+
+64. Qui certifie les comptes de l'Etat ?
+<correct_answer>A. La Cour des comptes</correct_answer>
+B. Le Parlement
+C. Le Président de la République
+
+65. S'agissant des finances publiques des Etats membres, le traité de Maastricht de 1992 fixe les
+critères de convergence suivants :
+A. un déficit public annuel inférieur à 6 % du PIB, une dette publique inférieure à 90% du PIB
+<correct_answer>B. un déficit public annuel inférieur à 3 % du PIB, une dette publique inférieure à 60% du PIB</correct_answer>
+C. un déficit public annuel inférieur à 5% du PIB, une dette publique inférieure à 40% du PIB
+
+66. Le contrôle budgétaire d'une commune relève de la compétence :
+A. du directeur départemental des finances publiques
+B du comptable public de la commune
+C. du préfet en lien avec la chambre régionale des comptes
+
+67. La loi organique relative aux lois de finances introduit une nouvelle nomenclature budgétaire qui se
+décline en :
+<correct_answer>A. missions et programmes</correct_answer>
+B. missions et projets
+C. programmes et actions
+
+68. Parmi ces propositions, laquelle ne relève pas des « impôts et taxes affectés » :
+A. la contribution sociale généralisée
+<correct_answer>B. l'impôt sur le revenu</correct_answer>
+C. la contribution solidarité autonomie
+
+69. Lequel de ces principes n'est pas un principe budgétaire de nos finances publiques ?
+A. Le principe de sincérité
+<correct_answer>B. Le principe de réciprocité</correct_answer>
+C. Le principe d'annualité
+
+70. Le projet de loi de finances doit être examiné en premier lieu par :
+A. <correct_answer>l'Assemblée nationale</correct_answer>
+B. le Sénat
+C. peu importe pourvu que la règle de 70 jours d'examen soit respectée
+
+71. Les impôts directs locaux constituent le socle de l'autonomie financière reconnue aux collectivités
+territoriales par l'article 72-2 de la Constitution. À ce titre, une collectivité territoriale peut :
+A. créer un impôt pour équilibrer son budget
+B. créer un impôt, déterminer son assiette et le taux d'imposition
+C. <correct_answer>déterminer l'assiette et le taux d'imposition dans les limites prévues par la loi</correct_answer>
+
+72. L'impôt de solidarité sur la fortune :
+A. <correct_answer>a été remplacé par l'impôt sur la fortune immobilière</correct_answer>
+B. a été totalement supprimé
+C. a été remplacé par l'impôt de financement de l'investissement
+
+73. Le premier budget de l'Etat voté et exécuté selon les principes de la LOLF est celui de l'année :
+A. 2001
+B. <correct_answer>2006</correct_answer>
+C. 2010
+
+74. L'article 40 de la Constitution interdit aux amendements parlementaires :
+A. <correct_answer>d'aggraver les charges publiques</correct_answer>
+B. d'augmenter les ressources publiques
+C. de diminuer les charges publiques
+
+75. Dans le cadre de la préparation du projet de loi de finances, les lettres de cadrage sont envoyées
+par :
+A. <correct_answer>le Premier ministre aux différents ministres</correct_answer>
+B. le Président de la République au Premier ministre et au ministre des finances
+C. le Premier ministre aux préfets de région
+
+76. Qu'est-ce que la fongibilité asymétrique ?
+A. La possibilité de répartition des crédits sur l'ensemble des titres
+B L'augmentation des crédits par anticipation de l'année suivante
+C. <correct_answer>La redistribution des crédits au sein d'un titre, ou d'un titre vers un autre à l'exception du titre 2
+(dépenses de personnel)</correct_answer>
+
+77. Une fois la loi de finances adoptée définitivement par le Parlement, les parlementaires peuvent la
+déférer devant :
+A. le Conseil d'Etat
+B. <correct_answer>le Conseil constitutionnel</correct_answer>
+C. la Cour des comptes
+
+78. Quelle collectivité publique peut présenter un budget en déséquilibre ?
+A. La région
+B La commune
+C. <correct_answer>L'Etat</correct_answer>
+
+79. Le Premier ministre a dévoilé le plan de relance doté de 100 milliards d'euros dont 40 milliards issus
+de l'Union européenne. Comment s'appelle ce plan?
+A Plan de Relance
+<correct_answer>B.</correct_answer> France Relance
+C. Soutenir la France
+
+80. Quel est le premier poste de dépense de l'Etat en 2019 ?
+<correct_answer>A.</correct_answer> L'éducation et la recherche
+B. La charge de la dette
+C. La défense et la sécurité
+
+81. La convention d'application des accords de Schengen est entrée en vigueur en :
+Α. 1985
+B 1990
+<correct_answer>C. 1995</correct_answer>
+
+82. L'autorité bancaire européenne a son siège à :
+<correct_answer>A. Paris</correct_answer>
+B. Francfort
+C. Londres
+
+83. De quand date la première élection du Parlement européen au suffrage universel ?
+A 1974
+<correct_answer>Β. 1979</correct_answer>
+C. 1986
+
+84. Parmi les pays suivants ayant déposé leur candidature à l'Union européenne, lequel a suspendu les
+négociations d'adhésion et s'est retiré du processus ?
+A. La Turquie
+<correct_answer>B. L'Islande</correct_answer>
+C. La Macédoine du Nord
+
+85. Le Conseil européen :
+A. n'est pas une institution de l'Union européenne
+B est une institution de l'Union européenne depuis les traités de Rome
+<correct_answer>C. est une institution de l'Union européenne depuis le traité de Lisbonne</correct_answer>
+
+86. Le traité de Lisbonne est :
+Α. le traité fondateur de l'Union européenne
+<correct_answer>B. le traité actuellement en vigueur</correct_answer>
+C. le traité qui a précédé le traité de Maastricht
+
+87. Qui n'a pas été président de la Commission européenne ?
+A. Jacques Delors
+B François-Xavier Ortoli
+<correct_answer>C. Simone Veil</correct_answer>
+
+88. Le président de la Commission européenne :
+<correct_answer>A. définit les orientations dans le cadre desquelles la Commission exerce sa mission</correct_answer>
+B. définit les orientations de l'Union européenne
+C. préside les sommets de la zone euro
+
+89. Combien l'Union européenne compte-t-elle de langues officielles ?
+<correct_answer>Α. 24</correct_answer>
+B. 3
+C. 12
+
+91. Depuis le traité de Lisbonne, quelle politique échappe encore à la Cour de justice de l'Union
+européenne?
+A. La politique monétaire
+<correct_answer>B. La politique étrangère et de sécurité commune</correct_answer>
+C. La politique commerciale
+
+92. Les accords commerciaux et de partenariat économique de l'Union européenne conclus par la
+Commission avec des pays tiers doivent être ratifiés :
+A. par les parlements des Etats membres
+<correct_answer>B. par le Parlement européen</correct_answer>
+C. par le Parlement européen et les parlements des Etats membres
+
+93. Qui sont les membres du Conseil européen ?
+<correct_answer>A. Les chefs d'Etat ou de gouvernement, le président du Conseil européen et le président de la
+Commission européenne</correct_answer>
+B. Les chefs d'Etat et le président du Conseil de l'Union européenne
+C. Les chefs d'Etat ou de gouvernement, le président du Conseil de l'Europe et le président de la
+Commission européenne
+
+94. La Cour de Justice de l'Union européenne siège :
+A. à Bruxelles
+<correct_answer>B. à Luxembourg</correct_answer>
+C. à Strasbourg
+
+95. Le Haut représentant de l'Union européenne pour les affaires étrangères et la politique de sécurité
+est:
+<correct_answer>A. Josep Borrell Fontelles</correct_answer>
+B. Catherine Ashton
+C. Ursula Von der Leyen
+
+96. La politique agricole commune comprend :
+A. des quotas laitiers
+B des subventions exclusivement à l'exportation
+<correct_answer>C. des subventions directes</correct_answer>
+
+97. L'euro est en circulation sous forme fiduciaire depuis :
+<correct_answer>A. 2002</correct_answer>
+B. 1999
+C. 1995
+
+98. Quel Etat ne fait pas partie de l'espace Schengen?
+A. La Norvège
+<correct_answer>B. L'Irlande</correct_answer>
+C. L'Estonie
+
+99. Quel est l'instrument de base de codification des valeurs et droits fondamentaux de l'Union
+européenne ?
+A. L'article 7 du traité de l'Union européenne
+<correct_answer>B.</correct_answer> La charte des droits fondamentaux de l'Union européenne
+C. La convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales
+
+100. L'arrêt CJCE du 15 juillet 1964 Costa c/ Enel consacre :
+A. l'effet direct des normes communautaires
+B. un privilège de juridiction sur les questions de droit communautaire
+<correct_answer>C.</correct_answer> la primauté du droit communautaire sur le droit interne
+Culture numérique
+
+101. Qu'est-ce qu'une donnée ouverte (en anglais « open data ») ?
+<correct_answer>A. Une donnée librement accessible et réutilisable</correct_answer>
+B. Une définition en ligne modifiable par tout internaute
+C. Un système de partage de données en ligne
+
+102. Qu'est-ce que le hameçonnage (en anglais « phishing ») ?
+A. Un procédé informatique permettant d'intercepter des courriels privés sur internet
+<correct_answer>B. Une technologie relevant de la cybercriminalité consistant à obtenir frauduleusement des
+données personnelles auprès d'un internaute</correct_answer>
+C. Une technique permettant de pirater des séries ou des films sur internet, en ayant recours aux
+échanges de pair à pair
+
+103. Quelle autorité est chargée de lutter contre le piratage informatique ?
+A ARCEP
+<correct_answer>B. HADOPI</correct_answer>
+C. Défenseur des droits
+
+104. Comment appelle-t-on, en anglais, le matériel physique constituant les ordinateurs de bureau et les
+terminaux :
+A. software
+B computer engineering
+<correct_answer>C. hardware</correct_answer>
+
+105. Qu'appelle-t-on un spam ?
+A Un programme malveillant
+<correct_answer>B. Un courriel indésirable</correct_answer>
+C. Un dysfonctionnement informatique
+
+106. Que signifie le "www" précédant la plupart des adresses URL sur internet?
+A. Web World Wide
+B World With Web
+<correct_answer>C. World Wide Web</correct_answer>
+
+107. Vous rédigez un courriel avec des destinataires en "Cci". Que désigne ce champ?
+<correct_answer>A. Les destinataires invisibles pour les autres destinataires</correct_answer>
+B. Le destinataire principal
+C. Les destinataires secondaires, en copie du courriel
+
+108. Que signifie « l'erreur 404 » dans le protocole de communication http sur le réseau internet?
+<correct_answer>A. La ressource n'existe pas à l'adresse demandée</correct_answer>
+B. L'accès à la ressource est soumis à autorisation
+C. La ressource a été déplacée vers une nouvelle adresse
+
+109. Lors de leur navigation, les internautes laissent des traces informatiques. Cet ensemble
+d'informations est recueilli à l'aide d'un témoin de connexion appelé :
+A. tracker
+<correct_answer>B. cookie</correct_answer>
+C. data compileur
+
+110. Un proxy est :
+<correct_answer>A. un serveur qui fait l'intermédiaire entre un réseau local privé et le réseau internet</correct_answer>
+B. un câble permettant de brancher son ordinateur sur le réseau internet
+C. un code qui permet de savoir à partir de quel ordinateur, dans quel pays, quelle ville, une
+ connexion a été établie
+
+111. La désignation d'un délégué à la protection des données est-elle obligatoire au sein des organismes
+et autorités publics?
+A. Non
+B Elle est fortement recommandée
+<correct_answer>C. Oui</correct_answer>
+
+112. Le droit à la déconnexion est :
+A. la possibilité pour un employeur de mettre fin à la connexion sur internet d'un agent pour des
+motifs déontologiques
+<correct_answer>B. le droit pour un agent de ne pas être en permanence joignable pour des motifs liés à l'exécution</correct_answer>
+ de son travail
+C. le droit pour un agent d'être en télétravail sans avoir accès systématiquement à un poste
+informatique
+
+113. Qu'est-ce que FranceConnect ?
+<correct_answer>A. Une solution proposée par l'Etat pour sécuriser et simplifier la connexion à plus de 700 services</correct_answer>
+ en ligne
+B. La plateforme d'accès à internet de la fonction publique d'Etat
+C. Le réseau social des agents de la fonction publique d'Etat
+
+114. La loi <« pour un Etat au service d'une société de confiance » reconnaît :
+A. le droit pour l'usager de démontrer la mauvaise foi de l'administration
+B. l'absence de sanction lors de la première erreur commise de mauvaise foi par l'usager
+<correct_answer>C. le principe "dites-le nous une fois", qui contribue à la réduction de la charge administrative pour</correct_answer>
+les usagers en réduisant la redondance des informations demandées
+
+115. En matière de communication des documents administratifs, l'administration doit :
+A. assurer le droit d'accès aux documents inachevés
+<correct_answer>B assurer la diffusion des documents autorisés sans masquer aucune information</correct_answer>
+C. assurer le droit d'accès aux documents rattachés à une décision définitive et non couverte par
+un secret protégé
+
+116. Où trouve-t-on sur internet les offres d'emploi de la fonction publique ?
+A. Sur le site "Priorité à l'emploi public", qui publie les postes vacants ou susceptibles d'être
+vacants destinés aux trois catégories d'agents
+<correct_answer>B. Sur le site "Place de l'emploi public" qui affiche les offres d'emploi des trois fonctions publiques</correct_answer>
+C. Sur le site "Place des emplois publics" qui rend visible les offres destinées aussi bien aux
+titulaires qu'aux contractuels de la fonction publique d'Etat.
+
+117. Vous êtes en poste au sein de la direction des sécurités d'une préfecture. La mairie du chef-lieu de
+département vous fait part de son souhait de mettre en place, au sein de sa commune, un système
+de vidéoprotection associé à un dispositif de reconnaissance faciale. Vous informez votre
+interlocuteur que ce dernier dispositif :
+A. peut être déployé après une simple délibération du conseil municipal
+<correct_answer>B. peut seulement faire l'objet d'une expérimentation strictement encadrée</correct_answer>
+C. est strictement interdit
+
+118. Quel est l'objectif du programme « Tech.gouv » ?
+A. <correct_answer>Accélérer la transformation numérique du service public</correct_answer>
+B. Renforcer la coordination entre les acteurs de la cybersécurité en Europe
+C. Déployer la 5ª génération des standards pour la téléphonie mobile
+
+119. Qui est concerné par le règlement général sur la protection des données ?
+A. Tous les organismes établis seulement sur le territoire de l'Union européenne dont l'activité cible
+directement les résidents européens
+B. Tous les organismes établis n'importe où dans le monde
+C. <correct_answer>Tous les organismes établis sur le territoire de l'Union européenne et tous les organismes
+implantés hors de l'Union européenne dont l'activité cible directement les résidents européens</correct_answer>
+
+120. L'illectronisme est :
+A. <correct_answer>la difficulté ou l'incapacité que rencontre une personne à utiliser les appareils numériques et
+outils informatiques</correct_answer>
+B. le refus d'un agent public d'utiliser une application électronique
+C. le fait pour un usager de ne pas avoir accès aux démarches administratives électroniques

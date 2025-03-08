@@ -1,0 +1,1 @@
+- Run de test avec gemini flash 2.0 fait sur un sample de 100 questions.

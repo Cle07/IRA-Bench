@@ -1,0 +1,648 @@
+1. Vous êtes attaché(e) d'administration au sein d'un bureau en charge du contentieux. On vous
+interroge sur les caractéristiques de la procédure administrative :
+<correct_answer>A. elle doit être écrite, contradictoire et inquisitoire</correct_answer>
+B. elle doit être orale, contradictoire et accusatoire
+C. elle doit être orale, contradictoire et inquisitoire
+
+2. Le référé conservatoire permet de demander au juge administratif :
+A. de prendre toutes mesures de suspension de l'exécution d'une décision administrative
+<correct_answer>B. de prendre toutes mesures utiles à la sauvegarde des droits du requérant avant même
+que l'administration ait pris une décision</correct_answer>
+C. de prendre toutes mesures nécessaires à la sauvegarde d'une liberté fondamentale à laquelle
+une décision administrative aurait porté atteinte de manière grave et illégale
+
+3. À quelle autorité administrative indépendante (AAI) est spécifiquement dédié un titre de la
+constitution de 1958 ?
+<correct_answer>A. Le Défenseur des droits</correct_answer>
+B. Le Conseil économique, social et environnemental (CESE)
+C. La Commission d'accès aux documents administratifs (CADA)
+
+4. Lorsqu'une loi ou une décision légale entraine une rupture d'égalité devant les charges publiques,
+la responsabilité de l'administration est dite :
+A. contractuelle pour faute
+B. extracontractuelle pour faute
+<correct_answer>C. extracontractuelle sans faute</correct_answer>
+
+5. L'administration peut réclamer à un agent le remboursement de l'intégralité des dommages et
+intérêts versés dans le cadre d'un recours administratif :
+<correct_answer>A. quand elle a indemnisé un dommage causé uniquement par la faute d'un agent</correct_answer>
+B. quand elle a indemnisé un dommage causé par une faute non dépourvue de tout lien avec le
+service
+C. quand elle indemnisé un dommage causé cumulativement par une double faute à la fois
+personnelle et de service
+
+6. Depuis 2022, combien y-a-t-il de cours administratives d'appel?
+Α. 101
+B. 13
+<correct_answer>C. 9</correct_answer>
+
+7. Quel est le statut de l'Agence française anticorruption (AFA) instituée par la loi n° 2016-1691 du
+9 décembre 2016 ?
+A. Un établissement public administratif
+<correct_answer>B. Un service à compétence nationale</correct_answer>
+C. Une autorité administrative indépendante
+
+8. Qui assure la présidence du Conseil d'État ?
+A. Le Garde des sceaux, ministre de la justice
+B. Le Premier ministre
+<correct_answer>C. Le Vice-président du Conseil d'État</correct_answer>
+
+9. Vous êtes en charge du contrôle de légalité au sein d'une préfecture. Un maire d'une commune de
+moins de 5000 habitants vous demande s'il doit vous transmettre tous les actes pris par sa
+commune avant de les exécuter. Que lui répondez-vous ?
+A. Le contrôle de légalité est un contrôle a priori sur tous les actes de la commune
+B. Le contrôle de légalité est un contrôle a priori sur une partie des actes de la commune
+<correct_answer>C. Le contrôle de légalité est un contrôle a posteriori sur une partie des actes de la
+commune</correct_answer>
+
+10. Qu'est-ce qu'une voie de fait en droit administratif ?
+<correct_answer>A. Une action de l'administration réalisée sans droit qui porte matériellement et illégalement
+une atteinte grave à une liberté fondamentale ou à un droit de propriété</correct_answer>
+B. Une action contre les privilèges de l'administration par des créanciers lors d'un litige financier
+C. Une atteinte physique à un agent public dans le cadre de ses fonctions
+
+11. Au nom de qui les décisions des tribunaux administratifs sont-elles rendues ?
+A. Au nom de l'État
+<correct_answer>B. Au nom du Peuple français</correct_answer>
+C. Au nom de la République
+
+12. Dans le cadre d'un retrait d'une décision créatrice de droits, l'administration a l'obligation :
+A. d'indemniser le bénéficiaire de la décision retirée
+B. de recueillir l'avis du bénéficiaire de la décision retirée
+<correct_answer>C. de motiver sa décision de retrait</correct_answer>
+
+13. Vous participez à la rédaction d'un projet d'ordonnance. Après sa ratification par le Parlement cette
+ordonnance aura une valeur :
+A. constitutionnelle
+<correct_answer>B. législative</correct_answer>
+C. règlementaire
+
+14. L'initiative de la loi appartient :
+A. au Gouvernement et aux députés
+B. aux députés et aux sénateurs
+<correct_answer>C. au Gouvernement et aux parlementaires</correct_answer>
+
+15. Une proposition de loi peut être soumise par :
+A. le Gouvernement
+<correct_answer>B. un ou plusieurs parlementaires</correct_answer>
+C. le Gouvernement ou des parlementaires
+
+16. Quel texte ne fait pas partie du bloc de constitutionnalité ?
+<correct_answer>A. Les lois constitutionnelles de 1875</correct_answer>
+B. Le Préambule de la Constitution de 1946
+C. La Charte de l'environnement de 2004
+
+17. Le contrôle de constitutionnalité est obligatoire pour :
+A. les décrets en Conseil d'Etat
+<correct_answer>B. les lois organiques</correct_answer>
+C. les traités internationaux
+
+18. Les lois de finances, de financement de la sécurité sociale et de programmation, qui déterminent
+les objectifs de l'action de l'Etat, sont :
+A. <correct_answer>des lois ordinaires</correct_answer>
+B. des lois organiques
+C. des lois constitutionnelles
+
+19. Une loi organique permet de :
+A. modifier plus rapidement certains articles de la Constitution
+B. <correct_answer>préciser l'application de certains articles de la Constitution qui le prévoient</correct_answer>
+C. préparer les lois constitutionnelles
+
+20. Depuis sa rédaction initiale en 1958, la Constitution a été révisée :
+A. 7 fois
+B. 15 fois
+C. <correct_answer>plus de 20 fois</correct_answer>
+
+21. L'article 66 de la Constitution désigne comme gardien de la liberté individuelle :
+A. <correct_answer>l'autorité judiciaire</correct_answer>
+B. le Conseil constitutionnel
+C. l'autorité administrative
+
+22. Quelle collectivité territoriale fait-elle l'objet d'un titre spécifique dans la Constitution de 1958?
+A. La Corse
+B. Mayotte
+C. <correct_answer>La Nouvelle-Calédonie</correct_answer>
+
+23. Une réserve d'interprétation du Conseil constitutionnel :
+A. est une précision sans valeur juridique d'une décision du Conseil constitutionnel
+B. <correct_answer>fait partie intégrante du dispositif et des motifs des décisions du Conseil constitutionnel</correct_answer>
+C. est une question qui sera réglée par saisine du Conseil constitutionnel après mise en application
+de la loi
+
+24. Vous êtes responsable au sein d'un bureau en charge du contentieux. Un référé liberté a été
+introduit à l'encontre d'un acte émanant de votre administration. Vous informez votre hiérarchie
+que le juge administratif doit se prononcer dans un délai de :
+A. 24 heures
+B. 72 heures
+C. <correct_answer>48 heures</correct_answer>
+
+25. Vous êtes en charge du recrutement dans une préfecture de plus de 20 agents et votre supérieur
+hiérarchique vous interroge sur les obligations relatives aux bénéficiaires de l'obligation d'emploi
+de travailleurs handicapés (BOETH). Vous lui répondez que :
+A. 6% des recrutements effectués au cours de l'année doit être réservé aux BOETH
+B. <correct_answer>6% des effectifs totaux de la préfecture doit être réservé aux BOETH</correct_answer>
+C. 6% des crédits de masse salariale doit être déployé pour des BOETH
+
+26. Tout agent public, sans distinction, doit exercer ses fonctions avec honnêteté et désintéressement
+et ne doit pas utiliser ses fonctions pour en tirer un profit personnel. Il s'agit de l'obligation :
+A. <correct_answer>de probité de l'agent public</correct_answer>
+B. d'impartialité de l'agent public
+C. de dignité de l'agent public
+
+27. La loi n° 2019-828 du 6 août 2019 relative à la transformation de la fonction publique institue
+l'obligation d'élaborer annuellement un rapport social unique (RSU) qui reprend :
+A. les données qui figuraient jusqu'alors dans le bilan social et les rapports portant sur la santé et
+la sécurité au travail uniquement
+<correct_answer>B. les données qui figuraient jusqu'alors dans le bilan social, les rapports portant sur la
+santé et la sécurité au travail et le rapport de situation comparée relatif à l'égalité femmes-
+hommes</correct_answer>
+C. les données qui figuraient jusqu'alors dans le bilan social, les rapports portant sur la santé et la
+sécurité au travail, le rapport de situation comparée relatif à l'égalité femmes-hommes et le
+rapport d'activité de l'établissement
+
+28. Les commissions administratives paritaires sont consultées par l'administration sur :
+A. les décisions individuelles de mutation, de mobilité, d'avancement et de promotion interne des
+agents
+B. l'adoption des lignes directrices de gestion
+<correct_answer>C. l'examen des décisions individuelles défavorables</correct_answer>
+
+29. En qualité de responsable du contrôle de gestion d'un rectorat, votre supérieur hiérarchique vous
+demande si les agents entrant en détachement au sein du rectorat sont décomptés de votre plafond
+d'emploi. Vous lui répondez :
+<correct_answer>A. oui, les détachements entrants sont décomptés au sein du plafond d'emploi de la
+structure d'accueil</correct_answer>
+B. oui, sauf pour les détachements d'une durée inférieure à un an
+C. non, les détachements entrants sont décomptés au sein du plafond d'emploi de la structure
+d'origine
+
+30. Avec la création du code général de la fonction publique, entré en vigueur le 1er mars 2022, le
+statut général des fonctionnaires :
+A. ne comprend plus les spécificités propres à chacun des trois versants de la fonction publique
+<correct_answer>B. a été consolidé</correct_answer>
+C. a été rendu modifiable par décret
+
+31. Vous êtes un agent en situation de handicap et souhaitez bénéficier de la reconnaissance de la
+qualité de travailleur handicapé (RQTH). Qui vous en accorde le bénéfice?
+<correct_answer>A. La commission des droits et de l'autonomie des personnes handicapées (CDAPH) de
+votre résidence</correct_answer>
+B. La médecine du travail de votre administration
+C. Le référent handicap de votre administration
+
+32. La mise à disposition permet au fonctionnaire de :
+A. cesser temporairement de travailler tout en conservant la possibilité de réintégrer son corps
+d'origine
+<correct_answer>B. travailler auprès d'un autre employeur que son administration tout en restant rattaché à
+son administration d'origine pour ce qui concerne sa carrière et sa rémunération</correct_answer>
+C. être placé temporairement auprès d'un autre employeur public pour appréhender la réalité d'un
+métier et d'un nouvel environnement professionnel
+
+33. Dans le cadre du dialogue social, les questions relatives à la politique indemnitaire conduite par le
+ministère chargé de l'éducation nationale sont examinées en :
+A. commission administrative paritaire
+<correct_answer>B. comité social d'administration</correct_answer>
+C. conseil supérieur de l'éducation
+
+34. Le congé de formation professionnelle permet à un agent public de :
+A. cesser totalement son activité professionnelle pour suivre une formation, sans bénéficier d'aucune rémunération
+B. cesser totalement son activité professionnelle pour suivre une formation en ayant la possibilité de bénéficier d'une indemnité mensuelle forfaitaire pendant une période maximale de 5 ans
+C. <correct_answer>cesser totalement son activité professionnelle pour suivre une formation en ayant la possibilité de bénéficier d'une indemnité mensuelle forfaitaire pendant la 1ère année de congé</correct_answer>
+
+35. Le contrat de projet permet de recruter un agent public :
+A. dans le cadre d'un contrat à durée indéterminée (CDI) pour réaliser un projet ou une opération spécifique
+B. <correct_answer>dans le cadre d'un contrat à durée déterminée (CDD) pour réaliser un projet ou une opération spécifique</correct_answer>
+C. dans le cadre d'un contrat à durée déterminée (CDD) qui peut être transformé en contrat à durée indéterminée (CDI) pour réaliser un projet ou une opération spécifique
+
+36. L'indemnité de fin de contrat, appelée prime de précarité, peut être versée :
+A. aux seuls agents contractuels de droit privé en fin de contrat
+B. à tout agent contractuel de droit public en fin de contrat
+C. <correct_answer>aux agents contractuels de droit public en fin de contrat remplissant certaines conditions liées à la durée du contrat et à la rémunération</correct_answer>
+
+37. La section des études, de la prospective et de la coopération du Conseil d'Etat a plusieurs missions dont notamment celle :
+A. <correct_answer>de veiller à l'exécution des décisions de justice du Conseil d'État</correct_answer>
+B. d'instance en dernier appel des décisions précédemment rendues par le Conseil d'Etat
+C. d'instance d'appel de l'Association des Conseils d'État et des juridictions administratives suprêmes de l'Union européenne (ACA-Europe)
+
+38. Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur (Hcéres) est une autorité publique indépendante (API) en charge de :
+A. l'évaluation des chercheurs et enseignants chercheurs français
+B. la notation et du classement de l'ensemble des laboratoires français
+C. <correct_answer>l'évaluation de l'ensemble des établissements de l'enseignement supérieur et de la recherche</correct_answer>
+
+39. Vous êtes chargé(e) du contrôle budgétaire et de légalité au sein d'un rectorat. Vous constatez qu'un acte est entaché d'illégalité pour une université présente au sein de l'académie. Vous informez votre supérieur que le recteur chancelier des universités :
+A. est incompétent pour la demande d'annulation de cet acte
+B. <correct_answer>va pouvoir saisir le juge administratif d'une demande d'annulation</correct_answer>
+C. va pouvoir annuler l'acte de l'établissement concerné
+
+40. La réforme de l'encadrement supérieur a eu pour conséquence s'agissant du corps des préfets :
+A. un élargissement du nombre des préfets pouvant être nommés en service extraordinaire
+B. la création d'un grade de classe exceptionnelle comportant deux échelons supplémentaires
+C. <correct_answer>sa mise en extinction progressive</correct_answer>
+
+41. Quelle autorité administrative indépendante (AAI) n'a pas été intégrée au sein du Défenseur des
+droits?
+A. La Commission nationale de déontologie de la sécurité
+B. Le médiateur de la République
+C. <correct_answer>Le Contrôleur général des lieux de privation de liberté</correct_answer>
+
+42. Vous travaillez en préfecture au contrôle de légalité des actes des collectivités. Que pouvez-vous
+faire ?
+A. Retirer un acte illégal
+B. <correct_answer>Contester un acte illégal devant le juge administratif</correct_answer>
+C. Annuler un acte illégal
+
+43. Créée par la loi n° 2019-753 du 22 juillet 2019, l'Agence nationale de la cohésion des territoires
+(ANCT) a été mise en place le 1er janvier 2020. Elle a pour missions:
+A. <correct_answer>d'assurer un rôle de « fabrique à projets » pour permettre aux collectivités de mener à
+bien leurs projets</correct_answer>
+B. de contrôler les intercommunalités à l'échelle nationale
+C. de renforcer le contrôle de l'échelon régional sur les départements pour harmoniser les projets
+nationaux sur l'ensemble du territoire
+
+44. La « démétropolisation » est le transfert :
+A. de compétences des grandes métropoles au profit des mairies d'arrondissement dans un
+objectif d'amélioration de qualité environnementale en milieu très urbanisé
+B. d'une partie des finances locales et produits de l'impôt des grandes métropoles vers les
+moyennes et petites agglomérations
+C. <correct_answer>des services de l'administration centrale localisés dans une métropole vers les régions
+ou dans des villes petites ou moyennes</correct_answer>
+
+45. Le centre interdépartemental de gestion (CIG) de la grande couronne de la région d'Île-de-
+France est :
+A. un établissement public industriel et commercial chargé de lever des fonds dans le cadre de la
+réalisation du Grand Paris Express
+B. <correct_answer>un établissement public local à caractère administratif assurant des missions d'expertise
+pour l'application du statut des fonctionnaires territoriaux</correct_answer>
+C. une autorité administrative territoriale indépendante chargée d'assurer le contrôle de légalité
+des départements composant la grande couronne
+
+46. L'organisation d'un ministère en directions ne peut être modifiée que par un :
+A. <correct_answer>décret du Premier ministre contresigné par le ministre concerné</correct_answer>
+B. décret du Président de la République contresigné par le ministre concerné
+C. arrêté du Président de la République contresigné par le Premier ministre et par le ministre
+concerné
+
+47. La section du contentieux du Conseil d'Etat juge :
+A. les seuls conflits entre citoyens, associations ou entreprises
+B. les seuls conflits entre administrations
+C. <correct_answer>les conflits entre citoyens, associations ou entreprises et l'administration, mais aussi les
+conflits entre deux administrations</correct_answer>
+
+48. Un agent bénéficiant d'un contrat à durée indéterminée (CDI) au sein de la fonction publique de
+l'Etat peut être recruté :
+A. directement en CDI auprès d'un autre employeur public seulement si ce dernier relève de la
+fonction publique de l'Etat
+<correct_answer>B. directement en CDI auprès d'un autre employeur public que ce dernier relève de la
+fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique
+hospitalière</correct_answer>
+C. exclusivement sur la base d'un contrat à durée déterminée (CDD) auprès d'un autre employeur
+public
+
+49. La loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur
+renforce notamment le pouvoir des préfets en confiant :
+A. un pouvoir de substitution aux préfets de département en cas de défaillance d'une collectivité
+ou d'un pouvoir exécutif local
+B. aux préfets la conduite et l'animation de l'administration territoriale de l'Etat
+<correct_answer>C. la gestion des crises graves aux préfets de département qui dirigeront désormais dans
+ce cadre l'action des établissements et services déconcentrés qui ne relèvent pas de leur
+autorité en temps normal</correct_answer>
+
+50. Un préfet est un ordonnateur :
+A. <correct_answer>secondaire</correct_answer>
+B. délégué
+C. principal
+
+51. Les fonds de concours sont une exception :
+A. à la règle de non-contraction
+B. au principe de spécialité
+C. <correct_answer>à la règle de non-affectation des recettes aux dépenses</correct_answer>
+
+52. La gestion de fait est :
+A. une exception au principe de séparation de l'ordonnateur et du comptable
+B. <correct_answer>une violation du principe de séparation de l'ordonnateur et du comptable</correct_answer>
+C. aucune de ces réponses
+
+53. Parmi les principes budgétaires suivants, quel est le plus récent ?
+A. Le principe de spécialité
+B. Le principe d'universalité
+C. <correct_answer>Le principe de sincérité</correct_answer>
+
+54. L'ordonnance n° 2022-408 du 23 mars 2022 relative au régime de responsabilité financière des
+gestionnaires publics a supprimé :
+A. le Haut Conseil des finances publiques
+B. <correct_answer>la Cour de discipline budgétaire et financière</correct_answer>
+C. la Cour de justice de la République
+
+55. Vous êtes secrétaire général(e) d'un lycée et votre ordonnateur vous demande de préparer le
+document qui intégre le compte financier 2023. Vous préparez :
+A. <correct_answer>un compte-rendu de gestion</correct_answer>
+B. un rapport de performance extra-financier
+C. un rapport relatif à la responsabilité sociale et environnementale (RSE) de l'établissement
+
+56. La loi organique relative aux lois de finances (LOLF) a consacré le principe de la « fongibilité
+asymétrique » pour autoriser :
+A. le redéploiement de crédits entre les programmes budgétaires
+B. <correct_answer>le redéploiement de crédits entre les titres d'un même programme budgétaire</correct_answer>
+C. le Parlement à créer des dépenses supplémentaires
+
+57. Le Pacte de stabilité et de croissance adopté en 1997 a pour objectif principal :
+A. d'autoriser un déficit public correspondant à 3% du produit intérieur brut (PIB) dans chacun des
+États membres
+B. d'autoriser une dette publique correspondant à 60% du produit intérieur brut (PIB) dans chacun
+des États membres
+C. <correct_answer>de fixer des règles communes aux États membres en matière de déficit public et de dette
+publique pour préserver l'équilibre financier au sein de l'Union européenne</correct_answer>
+
+58. La péréquation fiscale appliquée aux finances locales est prévue par :
+A. <correct_answer>la Constitution</correct_answer>
+B. la loi ordinaire
+C. le règlement
+
+59. Quel est l'impôt qui présente le rendement le plus important des recettes fiscales ?
+A. L'impôt sur le revenu
+B. L'impôt sur les sociétés
+<correct_answer>C. La taxe sur la valeur ajoutée (TVA)</correct_answer>
+
+60. Le budget vert 2024 de l'Etat prévoit des dépenses supplémentaires en faveur de la planification
+écologique à hauteur de :
+<correct_answer>A. 7 milliards d'euros</correct_answer>
+B. 17 milliards d'euros
+C. 10 milliards d'euros
+
+61. Dans le cadre de la loi organique relative aux lois de finances (LOLF), le contrôleur budgétaire et
+comptable ministériel (CBCM) exerce son pouvoir de visa sur la soutenabilité des engagements
+pris par des ordonnateurs lors de son contrôle budgétaire au niveau :
+A. d'une mission
+<correct_answer>B. d'un programme</correct_answer>
+C. d'une action
+
+62. Pour l'adoption annuelle des lois de financement de la sécurité sociale, la Constitution fixe au
+Parlement un délai de :
+<correct_answer>A. 50 jours</correct_answer>
+B. 70 jours
+C. 45 jours
+
+63. La liquidation de la dépense publique a pour objet de :
+A. donner l'ordre de payer la dette
+B. constater ou créer une obligation pour la personne publique
+<correct_answer>C. vérifier la réalité de la dette et d'arrêter le montant de la dépense</correct_answer>
+
+64. La loi de finances prévue à l'article 34 de la loi organique relative aux lois de finances (LOLF) se
+décompose en :
+A. 3 parties
+<correct_answer>B. 2 parties</correct_answer>
+C. 5 parties
+
+65. La fongibilité asymétrique implique que les crédits de personnel peuvent :
+<correct_answer>A. abonder un autre titre du programme</correct_answer>
+B. être augmentés par des crédits relevant d'un autre titre
+C. être augmentés par des crédits relevant d'un autre titre si l'équilibre du programme reste
+identique
+
+66. Le taux particulier « super-réduit » de la taxe sur la valeur ajoutée (TVA) s'établit en France à :
+Α. 3,2%
+B. 5%
+<correct_answer>C. 2,1%</correct_answer>
+
+67. En matière de dépenses publiques, qui est habilité à apprécier l'opportunité de la dépense ?
+A. Le comptable public
+<correct_answer>B. L'ordonnateur</correct_answer>
+C. Le contrôleur financier
+
+68. La loi organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et à la
+gouvernance des finances publiques (LOPGFP) a institué Le Haut Conseil des finances publiques
+(HCFP). Cet organisme indépendant est présidé par :
+A. le Premier ministre
+B. la présidente de l'Assemblée nationale
+<correct_answer>C. le premier président de la Cour des comptes</correct_answer>
+
+69. La direction générale du Trésor a pour mission de :
+A. préparer le projet de loi de finances, son adoption et sa mise en œuvre
+<correct_answer>B. conseiller le Gouvernement dans l'élaboration et la conduite de la politique économique,
+commerciale et financière</correct_answer>
+C. définir la stratégie monétaire en conformité avec les traités européens
+
+70. En novembre 2023, la Commission européenne a recommandé d'ouvrir les négociations
+d'adhésion avec :
+<correct_answer>A. I'Ukraine et la Moldavie</correct_answer>
+B. I'Ukraine et la Géorgie
+C. la Moldavie et la Bosnie-Herzégovine
+
+71. Le premier pilier de la politique agricole commune (PAC) prévoit :
+A. un soutien exclusif aux productions vertes
+<correct_answer>B. un soutien aux marchés et aux revenus agricoles</correct_answer>
+C. un soutien au développement rural
+
+72. La zone "euro" compte actuellement :
+<correct_answer>A. 20 États membres</correct_answer>
+B. 21 États membres
+C. 23 États membres
+
+73. Le sommet de Porto, en 2021, a défini trois grands objectifs structurants d'ici à 2030, relatifs à :
+<correct_answer>A. l'emploi, la formation et la pauvreté</correct_answer>
+B. la santé, le chômage et l'exclusion sociale
+C. la vie associative, la santé et l'égalité entre les femmes et les hommes
+
+74. L'Irlande du Nord, avec le Brexit, est :
+A. restée dans le marché unique
+B. sortie du marché unique
+<correct_answer>C. sortie du marché unique, sauf pour les biens de première nécessité</correct_answer>
+
+75. Le Groenland est :
+A. membre de la Communauté économique européenne puis de l'Union européenne (UE) depuis
+1973
+B. membre de la Communauté économique européenne puis de l'Union européenne (UE) depuis
+1985
+<correct_answer>C. non membre de l'Union européenne (UE), bien qu'il s'astreigne au respect de certaines
+politiques communautaires</correct_answer>
+
+76. Les critères de Copenhague sont des critères :
+<correct_answer>A. devant être respectés pour pouvoir entrer dans l'Union européenne (UE)</correct_answer>
+B. qui, violés, emportent un risque d'exclusion de l'Union européenne (UE)
+C. d'ordre budgétaire
+
+77. L'agriculture constitue, dans les traités, une compétence :
+A. exclusive
+<correct_answer>B. partagée</correct_answer>
+C. d'appui
+
+78. La politique agricole commune (PAC) constitue le :
+A. <correct_answer>premier poste de dépenses de l'Union européenne (UE)</correct_answer>
+B. deuxième poste de dépenses de l'Union européenne (UE)
+C. troisième poste de dépenses de l'Union européenne (UE)
+
+79. En matière d'accords commerciaux, le négociateur est :
+A. le Conseil de l'Union européenne (UE)
+B. <correct_answer>la Commission européenne</correct_answer>
+C. le Conseil européen
+
+80. Le traité sur la stabilité, la coordination et la gouvernance (TSCG) a été signé en 2012 par :
+A. <correct_answer>25 des 27 pays de l'Union européenne</correct_answer>
+B. l'ensemble des pays de l'Union européenne (UE)
+C. l'ensemble des pays de l'Union européenne (UE), ainsi que l'Islande et la Norvège
+
+81. La boussole stratégique de l'Union européenne (UE), adoptée en 2022, affirme :
+A. le principe de réduction des déficits publics dans chaque État membre de la zone euro
+B. <correct_answer>les grandes orientations en matière de stratégie et de défense de l'Union européenne (UE)
+à horizon 2030</correct_answer>
+C. les modalités futures de l'élargissement de l'Union européenne (UE)
+
+82. En vertu des traités, la règle générale de décision, en matière de politique étrangère et de sécurité
+commune (PESC), est :
+A. le consensus
+B. la majorité qualifiée
+C. <correct_answer>l'unanimité</correct_answer>
+
+83. La juridiction de la Cour européenne des droits de l'Homme ne s'étend pas sur :
+A. la Suisse
+B. <correct_answer>la Biélorussie</correct_answer>
+C. l'Azerbaïdjan
+
+84. Les pays et territoires d'outre-mer (PTOM) :
+A. font partie intégrante de l'Union européenne (UE)
+B. <correct_answer>ne font pas partie intégrante de l'Union européenne (UE)</correct_answer>
+C. ne font pas partie intégrante de l'Union européenne (UE), mais doivent au moins en respecter
+le droit
+
+85. En matière d'aide publique au développement, l'Union européenne et ses Etats membres sont :
+A. <correct_answer>le premier donateur mondial</correct_answer>
+B. le deuxième donateur mondial après les États-Unis
+C. le troisième donateur mondial après les États-Unis et la Chine
+
+86. La politique commerciale de l'Union européenne est une compétence :
+A. partagée entre l'Union et les Etats membres
+B. <correct_answer>exclusive de l'Union</correct_answer>
+C. d'appui de l'Union
+
+87. Quel est le domaine d'activité du programme européen LIFE?
+A. <correct_answer>la préservation de la biodiversité</correct_answer>
+B. les enjeux de sécurité numérique
+C. les enjeux de santé publique
+
+88. La Cour européenne des droits de l'Homme (CEDH) peut être saisie par :
+A. tout Etat signataire de la CEDH, la Commission européenne et par un recours individuel formé
+par toute personne s'estimant victime d'une violation de la convention par un Etat signataire
+B. tout Etat signataire de la CEDH et par un recours individuel formé par toute personne souhaitant
+dénoncer une violation de la convention par un Etat signataire
+<correct_answer>C. tout Etat signataire de la CEDH constatant un manquement imputable à un autre Etat
+signataire et par un recours individuel formé par toute personne s'estimant victime d'une
+violation de la convention par un Etat signataire</correct_answer>
+
+89. La charte des droits fondamentaux de l'Union européenne, adoptée en 2000 :
+A. n'a pas de valeur contraignante
+<correct_answer>B. a une valeur contraignante depuis l'entrée en vigueur du traité de Lisbonne</correct_answer>
+C. s'applique de manière différenciée dans les Etats membres de l'Union européenne, en fonction
+de leur date d'adhésion
+
+90. Qu'est-ce qu'un logiciel libre ("open source" en anglais)?
+<correct_answer>A. Un logiciel dont le code source est libre d'accès, réutilisable et modifiable</correct_answer>
+B. Un logiciel agréé par l'Agence nationale de la sécurité des systèmes d'information (ANSSI)
+C. Un logiciel qui ne comporte pas d'éléments permettant d'espionner ses utilisateurs
+
+91. À compte du 28 décembre 2024, quel type de chargeur universel est rendu obligatoire par la
+directive 2022/2380/UE, notamment pour les téléphones portables ?
+A. Universal serial bus de Type-A
+<correct_answer>B. Universal serial bus de Type-C</correct_answer>
+C. Lightning
+
+92. Que désigne-t-on par la notion d'interopérabilité ?
+<correct_answer>A. La capacité des systèmes de pouvoir fonctionner avec d'autres produits ou systèmes
+informatiques sans restriction d'accès ou de mise en œuvre</correct_answer>
+B. La capacité d'une plateforme numérique à pouvoir gérer de nombreuses demandes
+contradictoires
+C. Le fait pour plusieurs administrations de mettre leurs ressources en commun afin de diminuer
+les coûts de développement d'une solution informatique
+
+93. Qu'est-ce que le publipostage ?
+A. Des publicités ciblées incluses dans les pages internet lors de la navigation d'un utilisateur
+B. Le fait de publier une page internet ou intranet pour la rendre accessible
+<correct_answer>C. Une méthode informatique pour envoyer simplement des courriers ou courriels
+personnalisés à un nombre important de destinataires</correct_answer>
+
+94. Que signifie l'expression << respecter la casse » en informatique ?
+<correct_answer>A. Respecter les majuscules et les minuscules des mots</correct_answer>
+B. Respecter la mise en forme d'un paragraphe
+C. Respecter l'ordre de numérotations des différents items
+
+95. Qu'est-ce qu'un entrepôt de données (<< Data Warehouse » en anglais)?
+A. Un système de sauvegarde automatique des serveurs en cas de panne
+<correct_answer>B. Une base de données utilisée pour collecter et analyser des données</correct_answer>
+C. Le lieu où sont stockés les ordinateurs hors d'usage avant leur destruction pour des raisons de
+sécurité
+
+96. Que signifie HTTPS?
+<correct_answer>A. Hyper Text Transfer Protocol Secure</correct_answer>
+B. Hight Transfer Protocol Permanent Security
+C. Hight Telecommunication Transfer Protocol State
+
+97. Qu'est-ce qu'une métadonnée ?
+A. Un ensemble de données occupant un volume de stockage important
+B. Les données permettant le bon fonctionnement des serveurs
+<correct_answer>C. Une donnée venant décrire ou définir une autre donnée ou un document</correct_answer>
+
+98. Le maire d'une petite commune de votre département souhaite savoir s'il doit désigner un délégué
+à la protection des données. Que lui répondez-vous?
+A. Un délégué à la protection des données n'est pas obligatoire pour les petites communes de
+moins de 2000 habitants
+<correct_answer>B. II est obligatoire d'en désigner un</correct_answer>
+C. L'article 37 du règlement général sur la protection des données (RGPD) prévoit que le maire
+est obligatoirement délégué à la protection des données de sa commune
+
+99. Que recouvre notamment la notion de NFT (non-fungible tokens, en français "jetons non
+fongibles")?
+A. Une méthode d'attaque informatique basée sur les jeux de hasard
+B. La désignation d'une des monnaies virtuelles
+<correct_answer>C. Un moyen de rendre un fichier informatique unique</correct_answer>
+
+100. Vous venez de prendre votre poste au sein d'une préfecture. L'administration vous demande des
+informations personnelles afin de traiter votre dossier administratif en vue de gérer votre carrière
+et vous rémunérer, mais vous ne souhaitez pas donner votre statut marital. Pouvez-vous vous y
+opposer?
+A. Oui, l'administration doit obtenir votre accord pour recueillir des informations personnelles vous
+concernant
+<correct_answer>B. Non, l'administration est autorisée à recueillir ces informations et vous ne devez pas
+vous y opposer</correct_answer>
+C. Oui, cette information ne fait pas partie des informations pouvant être recueillies par
+l'administration
+
+101. Qu'est-ce que data.gouv.fr?
+A. Le site internet de gestion des licences et des applications administratives
+B. Le site internet de la direction de l'amélioration et de la transition administrative
+<correct_answer>C. La plateforme de diffusion des données publiques de l'État français</correct_answer>
+
+102. Qu'est-ce que l'allocation forfaitaire de télétravail ?
+A. Un temps minimal consacré au télétravail
+<correct_answer>B. Une indemnisation des frais liés à la pratique du télétravail</correct_answer>
+C. Une prime liée à la manière de servir durant le télétravail
+
+103. Quel est le rôle de l'ARCEP ?
+A. La régulation de la consommation électrique des professionnels
+B. La réception des communications électroniques et postales
+<correct_answer>C. La régulation des communications électroniques, des postes et de la distribution de la
+presse</correct_answer>
+
+104. Qu'appelle-t-on communément le numéro d'inscription au répertoire national d'identification des
+personnes physiques ?
+A. Le numéro figurant sur la carte d'identité d'une personne
+<correct_answer>B. Le numéro de sécurité sociale d'une personne</correct_answer>
+C. Le numéro d'identification d'une personne au registre des sociétés
+
+105. Que recouvre l'acronyme RIE ?
+A.
+Réseau internet de l'État à très haut débit
+B. Réseau intranet commun à toutes les fonctions publiques
+<correct_answer>C. Réseau interministériel de l'État qui réunit et raccorde l'ensemble des flux et réseaux
+informatiques de l'État</correct_answer>
+
+106. Qu'est-ce que la DILA ?
+A. <correct_answer>La direction de l'information légale et administrative</correct_answer>
+B. La direction informatique et libertés de l'administration
+C. La direction interministérielle des langages administratifs
+
+107. Qu'est-ce qu'un coffre-fort numérique ?
+A. Une salle informatique d'exploitation d'applications sensibles
+B. Un élément de codage particulièrement robuste
+C. <correct_answer>Un espace de stockage en ligne sécurisé</correct_answer>
+
+109. Qu'est-ce que le CERT-FR?
+A. <correct_answer>Le centre gouvernemental de veille, d'alerte et de réponse aux attaques informatiques</correct_answer>
+B. Un organisme de certification informatique rattaché au ministère chargé du numérique
+C. Un label permettant de s'assurer de la sécurité informatique du matériel informatique de l'État
