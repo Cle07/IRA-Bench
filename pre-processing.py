@@ -166,6 +166,7 @@ def qcm(page):
         ell.user(page),
     ]
 
+
 """
 @ell.complex(model="openai/gpt-4o-mini", client=client, response_format=CharModel)
 def get_charac(pages):
@@ -223,6 +224,7 @@ def get_source_dataframe(files_list):
     source_df.write_csv("data.csv")()
 """
 
+
 def get_full_files_list():
     os.chdir("data")
     folders_list = os.listdir()
@@ -231,6 +233,7 @@ def get_full_files_list():
         for file in os.listdir(folder):
             files_list.append(f"{folder}/{file}")
     return files_list
+
 
 def transcript_files_list(files_list: list):
     for i in range(len(files_list)):
